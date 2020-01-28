@@ -1,0 +1,858 @@
+1	28709876	28738871	Zm00001d028269	2	Yes	NA	"nucleus;sequence-specific DNA binding;regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding;integral component of membrane;membrane;DNA duplex unwinding;telomere maintenance;DNA helicase activity;DNA repair"	
+1	41787756	41801270	Zm00001d028649	2	Yes	Embryogenesis transmembrane protein-like;  protein	integral component of membrane;membrane	
+1	88192224	88203631	Zm00001d029814	2	Yes	Xyloglucan endotransglucosylase/hydrolase protein 32	"cell wall biogenesis;xyloglucan metabolic process;apoplast;cell wall;extracellular region;cellular glucan metabolic process;xyloglucan:xyloglucosyl transferase activity;metabolic process;carbohydrate metabolic process;hydrolase activity, acting on glycosyl bonds;hydrolase activity, hydrolyzing O-glycosyl compounds;cell wall organization;transferase activity;hydrolase activity"	
+1	110292474	110304921	Zm00001d030171	2	Yes	Serine/threonine-protein kinase	recognition of pollen;protein serine/threonine kinase activity;phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein kinase activity;nucleotide binding;transferase activity;integral component of membrane;membrane;recognition of pollen;protein serine/threonine kinase activity;phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein kinase activity;nucleotide binding;transferase activity;integral component of membrane;membrane	
+1	211745252	211755944	Zm00001d032077	2	Yes	Ethylene-responsive transcription factor ERF018	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+1	239268172	239278945	Zm00001d032822	3	Yes	NA	NA	
+1	239450290	239469371	Zm00001d032828	2	Yes	Citrate transporter family protein	transmembrane transport;integral component of membrane;membrane	
+1	247306909	247319314	Zm00001d033020	2	Yes	Cytochrome P450 CYP78A1	"oxidation-reduction process;heme binding;oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen;iron ion binding;integral component of membrane;membrane;monooxygenase activity;oxidoreductase activity;metal ion binding;regulation of timing of plant organ formation;"	
+1	276733050	276760133	Zm00001d033866	2	Yes	GTP-binding protein  chloroplastic	GTP binding	
+1	277047957	277065142	Zm00001d033874	2	Yes	Thioredoxin superfamily protein	;cellular oxidant detoxification;oxidoreductase activity;oxidation-reduction process;antioxidant activity	
+1	298052974	298067686	Zm00001d034621	2	Yes	Protein trichome birefringence-like 32	NA	
+2	13567658	13581059	Zm00001d002475	3	Yes	Binding partner of ACD11 1	RNA binding;nucleic acid binding	
+2	13585866	13597608	Zm00001d002476	2	Yes	myb domain protein 58	DNA binding	
+2	13915511	13926731	Zm00001d002491	2	Yes	Putative RING-H2 finger protein ATL53	integral component of membrane;membrane;ubiquitin-protein transferase activity;protein ubiquitination	
+2	18087188	18100739	Zm00001d002649	2	Yes	Putative Myb family transcription factor	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;DNA binding"	
+2	20395045	20407210	Zm00001d002718	2	Yes	Scarecrow-like protein 6	"regulation of transcription, DNA-templated;transcription, DNA-templated"	
+2	104162039	104177347	Zm00001d004335	2	Yes	ABC transporter G family member 24	ATPase activity;ATP binding;nucleotide binding;integral component of membrane;membrane	
+2	212742709	212754721	Zm00001d006619	2	Yes	Zinc finger CCCH domain-containing protein 56	metal ion binding	
+2	212765259	212779000	Zm00001d006621	2	Yes	Calcium-dependent protein kinase 7	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;calcium ion binding	
+2	212775800	212788824	Zm00001d006622	2	Yes	CYP72A57	"oxidation-reduction process;heme binding;oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen;iron ion binding"	
+2	223596902	223608313	Zm00001d007161	2	Yes	Peroxidase 52	hydrogen peroxide catabolic process;response to oxidative stress;heme binding;cellular oxidant detoxification;peroxidase activity;extracellular region;oxidation-reduction process;oxidoreductase activity;metal ion binding	
+2	223709590	223720291	Zm00001d007168	2	Yes	Transcription repressor OFP1	NA	
+2	223712699	223727755	Zm00001d007169	4	Yes	PAP/OAS1 substrate-binding domain superfamily	NA	
+2	233395595	233409330	Zm00001d007503	2	Yes	Myosin-binding protein 7	NA	
+3	16463276	16473803	Zm00001d039842	2	Yes	Disease resistance response protein-like;  protein	isomerase activity;apoplast;extracellular region	
+3	16629991	16645993	Zm00001d039852	2	Yes	Inner membrane protein ALBINO3 chloroplastic	protein insertion into membrane;integral component of membrane;membrane	
+3	31504737	31518060	Zm00001d040190	2	Yes	hydroxyproline-rich glycoprotein family protein	NA	
+3	31614279	31631394	Zm00001d040191	2	Yes	zinc ion binding	NA	
+3	31622408	31635769	Zm00001d040192	2	Yes	C-type lectin receptor-like tyrosine-protein kinase	carbohydrate binding;peptidyl-tyrosine phosphorylation;protein tyrosine kinase activity;phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+3	58530774	58559803	Zm00001d040692	2	Yes	NA	NA	
+3	157653884	157671005	Zm00001d042258	2	Yes	RING finger protein	NA	
+3	160475671	160491892	Zm00001d042313	4	Yes	Calmodulin-binding transcription activator 4	;nucleus;DNA binding	
+3	160553687	160568121	Zm00001d042314	3	Yes	CBS domain-containing protein CBSCBSPB1	integral component of membrane;membrane;;catalytic activity	
+3	160586489	160596701	Zm00001d042315	5	Yes	MADS-box transcription factor 56	"positive regulation of transcription from RNA polymerase II promoter;RNA polymerase II regulatory region sequence-specific DNA binding;nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;DNA binding;protein dimerization activity"	
+3	161001234	161014799	Zm00001d042319	3	Yes	Squamosa promoter-binding-like protein 6	metal ion binding;nucleus;DNA binding	
+3	161212464	161224831	Zm00001d042322	2	Yes	Nucleobase-ascorbate transporter 11	transport;transporter activity;transmembrane transport;membrane;integral component of membrane	
+3	161284071	161295297	Zm00001d042325	2	Yes	Expressed protein;  protein	NA	
+3	161338264	161360747	Zm00001d042327	3	Yes	Exocyst complex component 7	exocyst;exocytosis	
+3	164481800	164498104	Zm00001d042398	2	Yes	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2	oligosaccharyltransferase complex;protein N-linked glycosylation;integral component of membrane;transferase activity;membrane;oligosaccharyltransferase complex;protein N-linked glycosylation;integral component of membrane;transferase activity;membrane	
+3	167607707	167621683	Zm00001d042443	2	Yes	BTB/POZ and TAZ domain-containing protein 2	"zinc ion binding;nucleus;regulation of transcription, DNA-templated;transcription cofactor activity;histone acetyltransferase activity;histone acetylation"	
+3	168994383	169008373	Zm00001d042476	2	Yes	Acid phosphatase/vanadium-dependent haloperoxidase-related protein	cellular oxidant detoxification;peroxidase activity;integral component of membrane;membrane	
+3	169000227	169012835	Zm00001d042478	2	Yes	GDP-L-galactose phosphorylase 1	GDP-D-glucose phosphorylase activity	
+3	169003960	169019820	Zm00001d042479	2	Yes	DNA repair protein recA homolog 3 mitochondrial	DNA recombination;cellular response to DNA damage stimulus;DNA repair;DNA metabolic process;DNA-dependent ATPase activity;single-stranded DNA binding;ATP binding;nucleotide binding;DNA binding	
+3	210014721	210026739	Zm00001d043781	2	Yes	Probable L-type lectin-domain containing receptor kinase VI.1	carbohydrate binding;phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+3	212714865	212728908	Zm00001d043879	2	Yes	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity;Golgi apparatus;Golgi membrane;membrane;cell wall organization;transferase activity;integral component of membrane	
+3	215381427	215393902	Zm00001d043970	2	Yes	NA	"menaquinone biosynthetic process;1,4-dihydroxy-2-naphthoyl-CoA synthase activity;metabolic process;catalytic activity;peroxisome"	
+4	16702652	16714604	Zm00001d049120	2	Yes	NA	NA	
+4	41051501	41065505	Zm00001d049712	2	Yes	nucleic acid binding;RNA binding	;mRNA processing;cytoplasm;RNA binding;nucleus	
+4	43586067	43601377	Zm00001d049762	2	Yes	NA	NA	
+5	2577304	2589012	Zm00001d012972	2	Yes	"chi3;chalcone flavanone isomerase3: Similar to chi1; expressed in various tissues, but not root, embryo, or internode (Sekhon et al 2011)"	isomerase activity;flavonoid biosynthetic process;chalcone isomerase activity;intramolecular lyase activity;isomerase activity	
+5	2661357	2686120	Zm00001d012979	2	Yes	Pentatricopeptide repeat-containing protein  mitochondrial	"histone binding;metal ion binding;regulation of transcription, DNA-templated;;integral component of membrane;membrane"	
+5	21541382	21570664	Zm00001d013828	2	Yes	Switch 2	ATP binding;membrane	
+5	222150942	222164306	Zm00001d018512	2	Yes	Ubiquitin carboxyl-terminal hydrolase 2	thiol-dependent ubiquitinyl hydrolase activity;cysteine-type peptidase activity;protein deubiquitination;ubiquitin-dependent protein catabolic process;thiol-dependent ubiquitin-specific protease activity;proteolysis;peptidase activity;intracellular;hydrolase activity	
+6	108207462	108224350	Zm00001d036982	2	Yes	"ln1;linoleic acid1: lower ratio of oleate to linoleate in kernelembryo oil content and composition,cloned by chromosome walk to high oil QTL; maybe allele of ln1 (Zheng 2008)"	"O-acyltransferase activity;integral component of membrane;membrane;diacylglycerol O-acyltransferase activity;triglyceride biosynthetic process;transferase activity, transferring acyl groups;endoplasmic reticulum membrane;endoplasmic reticulum;transferase activity"	
+7	45688404	45701635	Zm00001d019597	2	Yes	Fiber protein Fb34	integral component of membrane;membrane	
+7	158039528	158053361	Zm00001d021610	2	Yes	NA	NA	
+7	159057265	159072338	Zm00001d021649	2	Yes	Ras-related small GTP-binding family protein	GTPase activity;GTP binding;cell cycle	
+7	167110739	167121722	Zm00001d021957	2	Yes	NA	NA	
+7	167112017	167129236	Zm00001d021958	2	Yes	NADH-ubiquinone oxidoreductase 18 kDa subunit	"electron transport chain;oxidoreductase activity, acting on NAD(P)H;"	
+7	170516938	170529278	Zm00001d022107	3	Yes	Glyceraldehyde-3-phosphate dehydrogenase A	NA	
+7	172479959	172494194	Zm00001d022193	2	Yes	Probable trehalose-phosphate phosphatase J	trehalose-phosphatase activity;trehalose biosynthetic process;dephosphorylation;hydrolase activity;catalytic activity	
+7	179916907	179933103	Zm00001d022554	2	Yes	BADH-like protein	oxidoreductase activity;metabolic process;oxidation-reduction process;endoplasmic reticulum	
+7	180124805	180136184	Zm00001d022569	2	Yes	senescence associated gene 20	NA	
+8	126373027	126385486	Zm00001d010736	3	Yes	O-methyltransferase ZRP4	O-methyltransferase activity;methyltransferase activity;methylation;transferase activity;protein dimerization activity	
+8	126875531	126887389	Zm00001d010752	4	Yes	"pebp8;phosphatidylethanolamine-binding protein8: florigen activity: complements Arabidopsis FT mutants, promoting flowering at short days. Requires functional id1 gene.(Lazakis et al 2011)"	NA	
+8	126881521	126893573	Zm00001d010753	3	Yes	Trihelix transcription factor ASIL2	NA	
+8	126883364	126898011	Zm00001d010754	4	Yes	NA	NA	
+8	126978553	126989104	Zm00001d010756	2	Yes	NA	NA	
+8	132430792	132448091	Zm00001d010894	2	Yes	Embryonic flower 1-like protein;  protein	"shoot system development;negative regulation of transcription, DNA-templated;negative regulation of flower development"	
+8	132438170	132449536	Zm00001d010895	2	Yes	NA	nucleic acid binding;DNA binding;protein dimerization activity	
+8	132440816	132452532	Zm00001d010896	2	Yes	protein; Ribosomal protein-like	ribosome	
+8	134628259	134642535	Zm00001d010946	2	Yes	Tetratricopeptide repeat (TPR)-like superfamily protein	NA	
+8	134755586	134771141	Zm00001d010948	2	Yes	lg4;liguleless4: dominant Lg4 plants lack ligule and auricle but show vestiges sporadically in bladeclass I homeobox; cDNA and genomic clones; sequence and expression similar to lg3 and knox5	"nucleus;sequence-specific DNA binding;regulation of transcription, DNA-templated;DNA binding"	
+8	135095380	135107824	Zm00001d010961	4	Yes	Putative CRINKLY4-like receptor protein kinase family protein	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding	
+8	135754694	135769370	Zm00001d010982	2	Yes	Tetraspanin-3	integral component of membrane;membrane	
+8	135868289	135879824	Zm00001d010984	2	Yes	Tudor/PWWP/MBT superfamily protein	NA	
+8	135927034	135945852	Zm00001d010986	2	Yes	rad51e;recombination protein51 gene e: Homolog of rad51	Rad51B-Rad51C-Rad51D-XRCC2 complex;double-strand break repair via homologous recombination;DNA repair;DNA-dependent ATPase activity;ATP binding;DNA binding	
+8	136004216	136017084	Zm00001d010987	4	Yes	rap2;rap2.7 orthologue: negative regulator of flowering time; vgt1 acts as an enhancer (Salvi et al. 2007)	"multicellular organism development;nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+8	137163646	137185188	Zm00001d011038	2	Yes	UDP-galactose/UDP-glucose transporter 5	carbohydrate transport;transport;transmembrane transport;integral component of membrane;membrane	
+8	137941079	137952769	Zm00001d011064	3	Yes	Putative mitochondrial import inner membrane translocase subunit Tim17 family protein	;integral component of membrane;membrane	
+8	137945084	137955817	Zm00001d011065	2	Yes	NA	ATP binding;nucleotide binding	
+8	138044175	138054510	Zm00001d011072	2	Yes	DVL family protein	NA	
+8	138083618	138094577	Zm00001d011073	2	Yes	AT5g02160	integral component of membrane;membrane;chloroplast thylakoid membrane	
+8	138088685	138119618	Zm00001d011075	2	Yes	Leukotriene A-4 hydrolase homolog	"hydrolase activity;integral component of membrane;membrane;actin filament bundle assembly;actin filament binding;nucleoside metabolic process;transcription, DNA-templated;sequence-specific DNA binding"	
+8	138155358	138166521	Zm00001d011076	3	Yes	Putative RING zinc finger domain superfamily protein	NA	
+8	138655037	138677465	Zm00001d011091	2	Yes	ABC transporter D family member 1	"ATPase activity, coupled to transmembrane movement of substances;ATPase activity;transport;transmembrane transport;integral component of membrane;ATP binding;nucleotide binding;membrane"	
+8	139298508	139311189	Zm00001d011111	3	Yes	NA	NA	
+8	139301221	139312532	Zm00001d011112	3	Yes	Exonuclease	exonuclease activity;nucleic acid phosphodiester bond hydrolysis;nucleic acid binding	
+8	164233449	164249768	Zm00001d011900	2	Yes	RNA-binding protein BRN1	RNA binding;nucleic acid binding	
+8	164241091	164256059	Zm00001d011901	2	Yes	Tetratricopeptide repeat (TPR)-like superfamily protein	;photosystem II oxygen evolving complex;photosystem II;photosynthesis;membrane	
+8	164248205	164258871	Zm00001d011902	2	Yes	NA	integral component of membrane;membrane	
+9	5018325	5039624	Zm00001d044845	2	Yes	binding	NA	
+9	125632194	125645930	Zm00001d047289	2	Yes	Nuclear transport factor 2 (NTF2) family protein with RNA binding (RRM-RBD-RNP motifs) domain	RNA binding;transport;intracellular;nucleic acid binding	
+10	27876681	27890933	Zm00001d023912	2	Yes	DNA binding	NA	
+10	91791481	91803115	Zm00001d024875	2	Yes	Putative cytochrome P450 superfamily protein	"monooxygenase activity;oxidation-reduction process;oxidoreductase activity;heme binding;oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen;iron ion binding;metal ion binding"	
+1	15170214	15182892	Zm00001d027851	1	NO	NA	NA	
+1	16351238	16365518	Zm00001d027878	1	NO	AP2-EREBP-type transcription factor	"multicellular organism development;nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+1	17136137	17146631	Zm00001d027899	1	NO	ZIM motif family protein	NA	
+1	17972813	17990594	Zm00001d027937	1	NO	Pentatricopeptide repeat-containing protein	;integral component of membrane;membrane	
+1	20599487	20619451	Zm00001d028022	1	NO	nucleotidyltransferases	nucleotidyltransferase activity;transferase activity	
+1	30241573	30258035	Zm00001d028312	1	NO	Transcription factor bHLH18	protein dimerization activity	
+1	39149936	39168793	Zm00001d028560	1	NO	LRR receptor-like serine/threonine-protein kinase FEI 1	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein kinase activity;nucleotide binding;cellulose biosynthetic process;integral component of membrane;membrane;phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein kinase activity;nucleotide binding;cellulose biosynthetic process;integral component of membrane;membrane;protein serine/threonine kinase activity;protein serine/threonine kinase activity;transferase activity;transferase activity;phosphorylation;kinase activity;integral component of membrane;membrane	
+1	42111981	42131702	Zm00001d028660	1	NO	Acyl-CoA N-acyltransferase with RING/FYVE/PHD-type zinc finger domain	"transferase activity, transferring acyl groups;transferase activity;N-acetyltransferase activity"	
+1	43641003	43651671	Zm00001d028702	1	NO	50S ribosomal protein L10 chloroplastic	ribosome biogenesis;ribosome;intracellular	
+1	44549395	44565803	Zm00001d028733	1	NO	SNF1-related protein kinase catalytic subunit alpha KIN10	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;transferase activity;phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;transferase activity	
+1	45281331	45295076	Zm00001d028750	1	NO	asn3;asparagine synthetase3:	asparagine biosynthetic process;asparagine synthase (glutamine-hydrolyzing) activity;ATP binding;nucleotide binding;glutamine metabolic process;cellular amino acid biosynthetic process;ligase activity	
+1	45597342	45610011	Zm00001d028755	1	NO	Ran-binding protein 1 homolog a	intracellular transport;intracellular	
+1	46195328	46206633	Zm00001d028780	1	NO	Tetraspanin-18	integral component of membrane;membrane	
+1	48419617	48435126	Zm00001d028842	1	NO	"p2;pericarp color2: nearly identical to p1, active in anther and silk but does not determine pericarp color; SSR's umc2096, umc2097."	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;DNA binding"	
+1	50714302	50726399	Zm00001d028909	1	NO	NA	metabolic process;catalytic activity;peroxisome	
+1	53743822	53759082	Zm00001d028987	1	NO	Phospholipid-transporting ATPase 1	magnesium ion binding;ATP binding;nucleotide binding;integral component of membrane;hydrolase activity;membrane;phospholipid-translocating ATPase activity;phospholipid transport;phospholipid translocation	
+1	54817256	54831599	Zm00001d029011	1	NO	Endoglucanase 25	"cellulose catabolic process;cellulase activity;polysaccharide catabolic process;carbohydrate metabolic process;metabolic process;hydrolase activity, acting on glycosyl bonds;hydrolase activity, hydrolyzing O-glycosyl compounds;hydrolase activity;integral component of membrane;membrane;catalytic activity"	
+1	56089245	56109240	Zm00001d029048	1	NO	Eukaryotic translation initiation factor 2 beta subunit	translational initiation;translation initiation factor activity	
+1	56101212	56111724	Zm00001d029049	1	NO	Photosystem II repair protein PSB27-H1 chloroplastic	photosystem II assembly	
+1	56102554	56115129	Zm00001d029050	1	NO	Serine/threonine-protein kinase AtPK1/AtPK6	protein serine/threonine kinase activity;phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein kinase activity;nucleotide binding;transferase activity	
+1	65491452	65506448	Zm00001d029303	1	NO	CONTAINS InterPro DOMAIN/s: Hepatocellular carcinoma-associated antigen 59 (InterPro:IPR010756); Has 1239 Blast hits to 998 proteins in 204 species: Archae - 4; Bacteria - 71; Metazoa - 421; Fungi - 109; Plants - 87; Viruses - 5; Other Eukaryotes -  /.../ource: NCBI BLink).	regulation of photomorphogenesis;response to high fluence blue light stimulus by blue high-fluence system;primary root development;negative regulation of ubiquitin protein ligase activity;nuclear speck	
+1	65986013	65997879	Zm00001d029325	1	NO	RNA-binding protein CP29B chloroplastic	RNA binding;nucleic acid binding;intracellular ribonucleoprotein complex;viral nucleocapsid	
+1	66115056	66131500	Zm00001d029328	1	NO	RNA-binding KH domain-containing protein	RNA binding;nucleic acid binding	
+1	75089561	75106160	Zm00001d029531	1	NO	Expressed protein;  protein	metal ion binding;	
+1	77737697	77748902	Zm00001d029581	1	NO	3-oxo-Delta(45)-steroid 5-beta-reductase	NA	
+1	85063069	85077051	Zm00001d029744	1	NO	fnsi1;flavone synthase typeI1: Encodes a flavone synthase that is of the soluble Fe2+/2- oxoglutarate-dependent dioxygenase class	oxidoreductase activity;oxidation-reduction process;metal ion binding	
+1	86450254	86460759	Zm00001d029775	1	NO	NA	defense response	
+1	87092798	87103370	Zm00001d029793	1	NO	Glutathione S-transferase F9	transferase activity	
+1	87833311	87846671	Zm00001d029809	1	NO	DUF3783 domain protein	NA	
+1	87830101	87843643	Zm00001d029808	1	NO	mgt6;magnesium transporter6: encodes CorA/MRS2/MGT-type magnesium transporter	metal ion transmembrane transporter activity;metal ion transport;transmembrane transport;membrane;integral component of membrane;	
+1	89557549	89572492	Zm00001d029839	1	NO	Protein NEN2	;nucleic acid binding	
+1	89920889	89933127	Zm00001d029847	1	NO	U-box domain-containing protein 37	protein ubiquitination;ubiquitin-protein transferase activity	
+1	90082215	90093432	Zm00001d029851	1	NO	NA	NA	
+1	90310517	90323180	Zm00001d029853	1	NO	Proline oxidase	oxidation-reduction process;oxidoreductase activity;proline dehydrogenase activity;proline catabolic process;proline metabolic process	
+1	90438929	90450866	Zm00001d029855	1	NO	Scarecrow-like protein 6	"regulation of transcription, DNA-templated;transcription, DNA-templated"	
+1	90852432	90874865	Zm00001d029860	1	NO	3-hydroxyisobutyryl-CoA hydrolase-like protein 2 mitochondrial	3-hydroxyisobutyryl-CoA hydrolase activity;hydrolase activity;mitochondrion	
+1	90923628	90941923	Zm00001d029861	1	NO	Probable respiratory burst oxidase homolog protein I	oxidation-reduction process;oxidoreductase activity;membrane;integral component of membrane	
+1	91985667	91996467	Zm00001d029884	1	NO	Ethylene-responsive transcription factor ERF035	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+1	93129346	93140167	Zm00001d029897	1	NO	Transcription factor UNE10	NA	
+1	93128919	93143777	Zm00001d029898	1	NO	Transcription factor UNE10	protein dimerization activity;double fertilization forming a zygote and endosperm;plasmodesma	
+1	93515069	93526826	Zm00001d029906	1	NO	Beta-expansin 7	sexual reproduction;extracellular region	
+1	95637045	95661709	Zm00001d029938	1	NO	Protein ARABIDILLO 1	NA	
+1	95957495	95971999	Zm00001d029946	1	NO	NA	NA	
+1	96079382	96092383	Zm00001d029948	1	NO	Serine/threonine-protein kinase D6PKL1	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding	
+1	96078307	96089227	Zm00001d029947	1	NO	Protein BRANCHLESS TRICHOME	NA	
+1	102371437	102383258	Zm00001d030057	1	NO	NA	NA	
+1	102556060	102566768	Zm00001d030059	1	NO	NA	3-hydroxyisobutyryl-CoA hydrolase activity;hydrolase activity;integral component of membrane;membrane	
+1	103275320	103291276	Zm00001d030069	1	NO	Homeodomain leucine zipper family IV protein	"lipid binding;sequence-specific DNA binding;nucleus;regulation of transcription, DNA-templated;DNA binding"	
+1	109839576	109876086	Zm00001d030164	1	NO	NA	;integral component of membrane;membrane	
+1	122194005	122207892	Zm00001d030323	1	NO	Leucine-rich repeat receptor-like protein kinase PEPR1	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+1	147201043	147228612	Zm00001d030593	1	NO	G-patch domain containing protein	nucleic acid binding;	
+1	157820175	157831488	Zm00001d030745	1	NO	NA	NA	
+1	160024616	160038712	Zm00001d030795	1	NO	Plant calmodulin-binding protein-related	calmodulin binding	
+1	182699313	182710449	Zm00001d031227	1	NO	Protein yippee-like	metal ion binding	
+1	189575903	189596158	Zm00001d031422	1	NO	RNA binding (RRM/RBD/RNP motifs) family protein	RNA binding;nucleic acid binding;mRNA processing	
+1	189851343	189867099	Zm00001d031429	1	NO	pfkB-like carbohydrate kinase family protein	"kinase activity;phosphorylation;phosphotransferase activity, alcohol group as acceptor;transferase activity;ribosome;translation;structural constituent of ribosome"	
+1	189857644	189872912	Zm00001d031430	1	NO	BEST Arabidopsis thaliana protein match is: nucleolar protein gar2-related (TAIR:AT2G42320.2); Has 3163 Blast hits to 2460 proteins in 357 species: Archae - 16; Bacteria - 291; Metazoa - 841; Fungi - 335; Plants - 248; Viruses - 72; Other Eukaryotes /.../0 (source: NCBI BLink).	NA	
+1	190174856	190188037	Zm00001d031437	1	NO	pan1;pangloss1: Defines polarization in divisions of subsidiary mother cells at guard cells	protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+1	190171192	190184802	Zm00001d031436	1	NO	OTU domain-containing protein	proteolysis;peptidase activity	
+1	190261395	190274706	Zm00001d031444	1	NO	IRK-interacting protein	NA	
+1	190259315	190270262	Zm00001d031443	1	NO	DUF2361 family protein	rRNA processing	
+1	190551791	190563314	Zm00001d031453	1	NO	3-oxoacyl-reductase	NA	
+1	193919906	193930964	Zm00001d031550	1	NO	mab2;math-btb2:	NA	
+1	197058890	197071757	Zm00001d031638	1	NO	ACR5	NA	
+1	200670571	200684396	Zm00001d031747	1	NO	Eukaryotic translation initiation factor 6	mature ribosome assembly;ribosome binding;ribosomal large subunit biogenesis;nucleolus;ribosome biogenesis;translational initiation;translation;translation initiation factor activity;cytoplasm;nucleus;ribosomal large subunit binding;integral component of membrane;membrane	
+1	201505972	201518199	Zm00001d031777	1	NO	Histone H3 K4-specific methyltransferase SET7/9 family protein	methylation;transferase activity;methyltransferase activity;integral component of membrane;membrane	
+1	201510268	201522431	Zm00001d031778	1	NO	Carbonic anhydrase	one-carbon metabolic process;carbonate dehydratase activity;metal ion binding;zinc ion binding	
+1	202088618	202100506	Zm00001d031794	1	NO	Alpha-amylase 1	"alpha-amylase activity;carbohydrate metabolic process;metabolic process;hydrolase activity, acting on glycosyl bonds;calcium ion binding;cation binding;hydrolase activity;catalytic activity;"	
+1	202090698	202101720	Zm00001d031795	1	NO	NA	integral component of membrane;membrane	
+1	203113551	203132762	Zm00001d031832	1	NO	Ubiquitin carboxyl-terminal hydrolase 17	protein deubiquitination;thiol-dependent ubiquitinyl hydrolase activity;hydrolase activity;ubiquitin-dependent protein catabolic process;integral component of membrane;membrane	
+1	205086435	205098066	Zm00001d031875	1	NO	pht7;phosphate transporter protein7:	phosphate ion transport;inorganic phosphate transmembrane transporter activity;transmembrane transporter activity;transmembrane transport;integral component of membrane;membrane	
+1	212106364	212117423	Zm00001d032084	1	NO	Chaperone DnaJ-domain superfamily protein	NA	
+1	227150946	227164833	Zm00001d032453	1	NO	Trihelix transcription factor GT-2	DNA binding;	
+1	229627719	229645091	Zm00001d032529	1	NO	fgp2;folylpolyglutamate synthetase2: Paralog of bm4 also encoding FPGS	folic acid-containing compound biosynthetic process;ligase activity;biosynthetic process;ATP binding;tetrahydrofolylpolyglutamate synthase activity;tetrahydrofolylpolyglutamate biosynthetic process;one-carbon metabolic process	
+1	231115510	231128615	Zm00001d032576	1	NO	Protochlorophyllide reductase C chloroplastic	protochlorophyllide reductase activity;oxidation-reduction process	
+1	238328316	238339770	Zm00001d032795	1	NO	Probable xyloglucan galactosyltransferase GT15	"transferase activity, transferring glycosyl groups;transferase activity;integral component of membrane;membrane"	
+1	238396114	238407655	Zm00001d032797	1	NO	Probable xyloglucan galactosyltransferase GT15	"transferase activity, transferring glycosyl groups;transferase activity;integral component of membrane;membrane"	
+1	241209105	241227098	Zm00001d032875	1	NO	Splicing factor CC1-like	RNA binding;mRNA processing;nucleic acid binding;nucleus	
+1	242394005	242404814	Zm00001d032903	1	NO	Transcription repressor OFP12	NA	
+1	244484885	244497952	Zm00001d032950	1	NO	GDP-mannose 35-epimerase	"coenzyme binding;NAD binding;catalytic activity;GDP-mannose 3,5-epimerase activity;coenzyme binding;NAD binding;catalytic activity;GDP-mannose 3,5-epimerase activity"	
+1	248192911	248218926	Zm00001d033037	1	NO	F-box/LRR-repeat protein 15	NA	
+1	248263405	248276687	Zm00001d033039	1	NO	Subtilisin-like protease SBT1.8	proteolysis;peptidase activity;serine-type endopeptidase activity;hydrolase activity	
+1	254189092	254202449	Zm00001d033210	2	NO	Chaperone protein dnaJ 3	;response to heat;heat shock protein binding;unfolded protein binding;protein folding;ATP binding;metal ion binding	
+1	254281991	254307867	Zm00001d033211	1	NO	Calmodulin binding protein	NA	
+1	257646281	257657855	Zm00001d033288	1	NO	Pentatricopeptide repeat-containing protein  chloroplastic	NA	
+1	265089468	265103491	Zm00001d033510	1	NO	NA	NA	
+1	273173152	273184917	Zm00001d033772	1	NO	late embryogenesis abundant protein	NA	
+1	279278190	279288789	Zm00001d033942	1	NO	Disease resistance-responsive (dirigent-like protein) family protein	isomerase activity;apoplast;extracellular region	
+1	282389751	282404544	Zm00001d034049	1	NO	Brittle stalk-2-like protein 3	anchored component of membrane;cellulose microfibril organization;cell growth;integral component of membrane;membrane	
+1	283759415	283772039	Zm00001d034091	1	NO	Transcription factor bHLH113	protein dimerization activity;	
+1	284862580	284877240	Zm00001d034139	1	NO	SecY protein transport family protein	protein transport;membrane;integral component of membrane	
+1	287583788	287601595	Zm00001d034239	1	NO	Kinesin-like protein KIN-8B	microtubule;microtubule-based movement;microtubule binding;microtubule motor activity;motor activity;ATP binding;nucleotide binding	
+1	287649011	287663261	Zm00001d034240	2	NO	Leucine-rich repeat receptor-like serine/threonine-protein kinase BAM3	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+1	290191971	290207180	Zm00001d034337	1	NO	AP-1 complex subunit sigma-2	transport;membrane coat;protein transport;intracellular protein transport;protein transporter activity;vesicle-mediated transport	
+1	290654743	290668205	Zm00001d034358	1	NO	Peroxisomal membrane protein 13	"protein import into peroxisome matrix, docking;peroxisome;integral component of membrane"	
+1	291396832	291408841	Zm00001d034382	1	NO	NA	negative regulation of translation;rRNA N-glycosylase activity;defense response;hydrolase activity	
+1	292167345	292181235	Zm00001d034410	1	NO	Type IV inositol polyphosphate 5-phosphatase 7	phosphatidylinositol dephosphorylation;hydrolase activity	
+1	293284851	293298079	Zm00001d034447	1	NO	Basic leucine zipper 25	";regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding"	
+1	295680533	295691417	Zm00001d034527	1	NO	NA	NA	
+1	297858276	297881107	Zm00001d034616	1	NO	Protein SCAR2	actin cytoskeleton organization;actin binding;cytoskeleton	
+1	300782677	300794731	Zm00001d034724	1	NO	50S ribosomal protein L18 chloroplastic	ribosome;translation;structural constituent of ribosome;intracellular	
+1	300785094	300808516	Zm00001d034725	1	NO	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	hydrolase activity;metabolic process	
+1	301468105	301481569	Zm00001d034755	1	NO	Translocase of chloroplast 159 chloroplastic	"hydrolase activity, acting on acid anhydrides;GTP binding"	
+1	304807196	304822687	Zm00001d034888	2	NO	Probable WRKY transcription factor 14	"sequence-specific DNA binding;regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding"	
+2	1679341	1690108	Zm00001d001839	1	NO	NA	integral component of membrane;membrane	
+2	1941284	1952096	Zm00001d001852	1	NO	Gibberellin-regulated protein 2	NA	
+2	3420808	3437915	Zm00001d001952	1	NO	Zinc finger C-x8-C-x5-C-x3-H type family protein	metal ion binding	
+2	10180427	10194131	Zm00001d002319	1	NO	Lecithin-cholesterol acyltransferase-like 4	"O-acyltransferase activity;transferase activity, transferring acyl groups;lipid metabolic process;transferase activity"	
+2	10178847	10189694	Zm00001d002318	1	NO	NA	NA	
+2	10183496	10197581	Zm00001d002320	1	NO	NA	;	
+2	11315826	11329747	Zm00001d002372	1	NO	evolutionarily conserved C-terminal region 10	RNA binding	
+2	12521599	12541542	Zm00001d002431	1	NO	GPCR-type G protein 2	integral component of membrane;membrane	
+2	13769186	13779704	Zm00001d002488	1	NO	DUF740 family protein	NA	
+2	14919202	14931277	Zm00001d002536	1	NO	Probable L-type lectin-domain containing receptor kinase S.5	carbohydrate binding;phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+2	14977846	14990863	Zm00001d002537	1	NO	Protein MULTIPLE CHLOROPLAST DIVISION SITE 1	chloroplast;chloroplast fission;integral component of membrane;membrane	
+2	16456905	16467911	Zm00001d002601	1	NO	histone H1-3	chromosome;nucleosome;nucleosome assembly;nucleus;DNA binding	
+2	20718662	20732230	Zm00001d002735	1	NO	40S ribosomal protein S7-2	ribosome;translation;structural constituent of ribosome;intracellular	
+2	20726283	20739451	Zm00001d002736	1	NO	ccd7;carotenoid cleavage dioxygenase7:	"dioxygenase activity;oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen;oxidation-reduction process;metal ion binding;response to auxin;secondary shoot formation;carotene catabolic process;strigolactone biosynthetic process"	
+2	23077802	23091615	Zm00001d002801	1	NO	GT-2-like 1	NA	
+2	24140621	24155188	Zm00001d002830	1	NO	Beta-fructofuranosidase 1	"vacuole;sucrose alpha-glucosidase activity;beta-fructofuranosidase activity;metabolic process;carbohydrate metabolic process;hydrolase activity, acting on glycosyl bonds;hydrolase activity, hydrolyzing O-glycosyl compounds;hydrolase activity;integral component of membrane;membrane;sucrose metabolic process;vacuolar lumen;vacuole;sucrose alpha-glucosidase activity;beta-fructofuranosidase activity;metabolic process;carbohydrate metabolic process;hydrolase activity, acting on glycosyl bonds;hydrolase activity, hydrolyzing O-glycosyl compounds;hydrolase activity;integral component of membrane;membrane;sucrose metabolic process;vacuolar lumen"	
+2	24288846	24300521	Zm00001d002843	1	NO	P-type R2R3 Myb protein	DNA binding	
+2	24429066	24440780	Zm00001d002844	1	NO	LIM domain-containing protein PLIM2b	metal ion binding;	
+2	24431185	24442340	Zm00001d002845	1	NO	(+)-neomenthol dehydrogenase	NA	
+2	24846162	24859883	Zm00001d002860	1	NO	Expansin-B3	sexual reproduction;extracellular region	
+2	25239154	25253590	Zm00001d002874	1	NO	OSJNBa0038O10.24 protein;  protein	NA	
+2	29263895	29274239	Zm00001d003005	1	NO	Os04g0521200 protein	integral component of membrane;membrane	
+2	29293796	29305202	Zm00001d003007	1	NO	Pentatricopeptide repeat (PPR) superfamily protein	NA	
+2	31702031	31714757	Zm00001d003085	3	NO	GDSL esterase/lipase LTL1	"hydrolase activity, acting on ester bonds"	
+2	32954428	32970922	Zm00001d003123	1	NO	LOCATED IN: cytosol chloroplast; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 14 growth stages; BEST Arabidopsis thaliana protein match is: Tudor/PWWP/MBT superfamily protein (TAIR:AT1G15940.1); Has 137162 Blast hits to 70781 proteins in 29 /.../cies: Archae - 289; Bacteria - 24182; Metazoa - 56725; Fungi - 20130; Plants - 6559; Viruses - 758; Other Eukaryotes - 28519 (source: NCBI BLink).	NA	
+2	34877973	34892627	Zm00001d003180	2	NO	Probable transcription factor PosF21	"regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding"	
+2	35238617	35252317	Zm00001d003193	1	NO	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	DNA binding;protein dimerization activity	
+2	42491182	42502972	Zm00001d003386	1	NO	NA	NA	
+2	43700185	43711945	Zm00001d003414	1	NO	NAC domain-containing protein 79	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;DNA binding"	
+2	46285523	46297310	Zm00001d003510	1	NO	Galactoside 2-alpha-L-fucosyltransferase	"fucosylation;galactoside 2-alpha-L-fucosyltransferase activity;cell wall biogenesis;membrane;transferase activity, transferring glycosyl groups;transferase activity"	
+2	48061763	48076352	Zm00001d003559	1	NO	Ferric reduction oxidase 7 chloroplastic	oxidation-reduction process;oxidoreductase activity;integral component of membrane;membrane	
+2	55718782	55729426	Zm00001d003709	1	NO	Cell wall / vacuolar inhibitor of fructosidase 2	negative regulation of catalytic activity;enzyme inhibitor activity	
+2	56678255	56688907	Zm00001d003730	1	NO	Histone H3.2	protein heterodimerization activity;chromosome;nucleosome;nucleus;DNA binding	
+2	61887174	61898274	Zm00001d003840	1	NO	NA	NA	
+2	62250456	62268760	Zm00001d003848	1	NO	NA	integral component of membrane;membrane	
+2	62765637	62777650	Zm00001d003852	1	NO	Inhibitor of apoptosis-like protein	NA	
+2	73513754	73524134	Zm00001d003981	1	NO	Drought-induced protein 1	NA	
+2	74149075	74160773	Zm00001d003993	1	NO	F-box protein	NA	
+2	83745412	83795051	Zm00001d004118	1	NO	Protein MICRORCHIDIA 7	NA	
+2	85447984	85459824	Zm00001d004133	1	NO	OSJNBa0065B15.1 protein; OSJNBb0071D01.5 protein;  protein	NA	
+2	85499775	85522397	Zm00001d004134	1	NO	U-box domain-containing protein 33	protein phosphorylation;protein kinase activity;ATP binding	
+2	85512707	85527558	Zm00001d004135	1	NO	NA	NA	
+2	112216153	112231107	Zm00001d004442	1	NO	ABC transporter B family member 19	"ATPase activity, coupled to transmembrane movement of substances;ATPase activity;transport;transmembrane transport;ATP binding;nucleotide binding;integral component of membrane;membrane"	
+2	123636554	123648401	Zm00001d004630	1	NO	ZCN17	NA	
+2	132738325	132771708	Zm00001d004709	1	NO	transcription coactivators	NA	
+2	162087060	162129973	Zm00001d005168	1	NO	parp2;poly(ADP-ribose) polymerase2:	"protein ADP-ribosylation;NAD+ ADP-ribosyltransferase activity;transferase activity, transferring glycosyl groups;transferase activity;NAD binding;metal ion binding;zinc ion binding;nucleus;DNA binding;DNA repair;response to oxidative stress;response to abscisic acid;"	
+2	173877328	173894679	Zm00001d005434	1	NO	Serine carboxypeptidase-like 19	carboxypeptidase activity;serine-type carboxypeptidase activity;proteolysis	
+2	173961248	173972645	Zm00001d005437	1	NO	Proteinase inhibitor propeptide	NA	
+2	175390655	175406157	Zm00001d005473	2	NO	mRNA-decapping enzyme-like protein	positive regulation of catalytic activity;deadenylation-dependent decapping of nuclear-transcribed mRNA;enzyme activator activity	
+2	175501166	175516789	Zm00001d005478	1	NO	Cellulose synthase A catalytic subunit 5 [UDP-forming]	"membrane;cell wall organization;cellulose biosynthetic process;cellulose synthase (UDP-forming) activity;transferase activity, transferring glycosyl groups;transferase activity;integral component of membrane;plasma membrane;membrane;cell wall organization;cellulose biosynthetic process;cellulose synthase (UDP-forming) activity;transferase activity, transferring glycosyl groups;transferase activity;metal ion binding;integral component of membrane"	
+2	176643910	176667238	Zm00001d005507	1	NO	Mediator of RNA polymerase II transcription subunit 14	;mediator complex;regulation of transcription from RNA polymerase II promoter;RNA polymerase II transcription cofactor activity	
+2	183059274	183073668	Zm00001d005675	1	NO	Pentatricopeptide repeat-containing protein  mitochondrial	;negative regulation of nucleic acid-templated transcription;transcription corepressor activity;integral component of membrane;membrane	
+2	190279721	190296227	Zm00001d005831	2	NO	Phospholipid:diacylglycerol acyltransferase 1	"O-acyltransferase activity;transferase activity, transferring acyl groups;lipid metabolic process;transferase activity;integral component of membrane;membrane"	
+2	205071861	205085041	Zm00001d006343	1	NO	Carbohydrate-binding X8 domain superfamily protein	NA	
+2	205393373	205409779	Zm00001d006351	1	NO	Protein argonaute 1	gene silencing by RNA;nucleic acid binding	
+2	205861818	205874808	Zm00001d006368	1	NO	NEP1-interacting protein-like 1	integral component of membrane;membrane	
+2	208452127	208463693	Zm00001d006446	1	NO	"sm2;salmon silk2: like sm1; silks salmon color with P1-rr and P1-wr, brown with P1-ww"	"transferase activity, transferring hexosyl groups;metabolic process;transferase activity, transferring glycosyl groups;transferase activity"	
+2	209683288	209694726	Zm00001d006486	1	NO	Probable protein phosphatase 2C 9	protein dephosphorylation;protein serine/threonine phosphatase activity;catalytic activity;protein dephosphorylation;protein serine/threonine phosphatase activity;catalytic activity	
+2	213895069	213907405	Zm00001d006669	1	NO	sbt2;subtilisin2: expressed in the in the basal kernel in very early stages of development; also weakly expressed in unpollinated female flowers.	serine-type peptidase activity;proteolysis;peptidase activity;serine-type endopeptidase activity;hydrolase activity	
+2	215952135	215964705	Zm00001d006753	1	NO	Indole-3-acetic acid amido synthetase	NA	
+2	217202633	217213481	Zm00001d006816	1	NO	NA	integral component of membrane;membrane	
+2	219720578	219738085	Zm00001d006936	1	NO	Peroxidase 64	cellular oxidant detoxification;response to oxidative stress;peroxidase activity;oxidation-reduction process;heme binding;hydrogen peroxide catabolic process;extracellular region;oxidoreductase activity;metal ion binding	
+2	220857814	220871296	Zm00001d007048	1	NO	NADH dehydrogenase [ubiquinone] flavoprotein 1 mitochondrial	"4 iron, 4 sulfur cluster binding;NADH dehydrogenase (ubiquinone) activity;FMN binding;oxidation-reduction process;NAD binding;respiratory chain;iron-sulfur cluster binding;mitochondrial inner membrane;mitochondrion;oxidoreductase activity;metal ion binding;membrane;oxidoreductase activity, acting on NAD(P)H;NADH dehydrogenase activity"	
+2	220863699	220875177	Zm00001d007049	1	NO	Cysteine proteinases superfamily protein	cysteine-type peptidase activity;proteolysis;peptidase activity;hydrolase activity	
+2	220877228	220891249	Zm00001d007050	1	NO	Probable protein phosphatase 2C 35	protein dephosphorylation;cation binding;hydrolase activity;protein serine/threonine phosphatase activity;phosphoprotein phosphatase activity;metal ion binding;catalytic activity;protein dephosphorylation;cation binding;hydrolase activity;protein serine/threonine phosphatase activity;phosphoprotein phosphatase activity;metal ion binding;catalytic activity	
+2	222388488	222406395	Zm00001d007107	1	NO	Zinc finger protein CONSTANS-LIKE 13	intracellular;zinc ion binding;nucleus	
+2	222394684	222406369	Zm00001d007108	1	NO	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	methylation;transferase activity;methyltransferase activity	
+2	222486159	222500761	Zm00001d007113	1	NO	Xylose isomerase	D-xylose metabolic process;pentose-phosphate shunt;xylose isomerase activity;isomerase activity;carbohydrate metabolic process;metal ion binding;D-xylose metabolic process;pentose-phosphate shunt;xylose isomerase activity;isomerase activity;carbohydrate metabolic process;metal ion binding	
+2	223313792	223326790	Zm00001d007144	1	NO	NA	NA	
+2	223377570	223388942	Zm00001d007154	1	NO	60S ribosomal protein L22-2	ribosome;translation;structural constituent of ribosome;intracellular	
+2	224477011	224487619	Zm00001d007199	1	NO	NA	NA	
+2	224893494	224906979	Zm00001d007215	1	NO	26S proteasome regulatory subunit 4 homolog A	proteasome complex;protein catabolic process;cytoplasm;hydrolase activity;ATP binding;nucleotide binding;proteasome-activating ATPase activity;positive regulation of proteasomal protein catabolic process	
+2	225202322	225214334	Zm00001d007228	1	NO	Omega-3 fatty acid desaturase	"oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water;lipid metabolic process;oxidation-reduction process;integral component of membrane;membrane"	
+2	225202033	225215880	Zm00001d007227	1	NO	DNA replication complex GINS protein PSF2	;DNA replication;nucleus	
+2	225206077	225218907	Zm00001d007229	1	NO	Phosphoinositide phospholipase C 4	signal transduction;signal transducer activity;phosphatidylinositol phospholipase C activity;intracellular signal transduction;lipid metabolic process;phosphoric diester hydrolase activity;lipid catabolic process;intracellular;hydrolase activity;signal transduction;signal transducer activity;phosphatidylinositol phospholipase C activity;intracellular signal transduction;lipid metabolic process;phosphoric diester hydrolase activity;lipid catabolic process;intracellular;hydrolase activity	
+2	225392842	225404820	Zm00001d007236	1	NO	CCAAT-binding factor	ribosome biogenesis;cleavage involved in rRNA processing	
+2	225514590	225529863	Zm00001d007240	2	NO	Two-component response regulator-like APRR3	"phosphorelay signal transduction system;nucleus;negative regulation of long-day photoperiodism, flowering"	
+2	225593910	225604890	Zm00001d007247	1	NO	receptor like protein 1	integral component of membrane;membrane	
+2	226040629	226056987	Zm00001d007263	1	NO	WAT1-related protein	transmembrane transport;transmembrane transporter activity;integral component of membrane;membrane	
+2	226076220	226088550	Zm00001d007264	1	NO	Probable protein phosphatase 2C 30	protein dephosphorylation;cation binding;hydrolase activity;protein serine/threonine phosphatase activity;phosphoprotein phosphatase activity;metal ion binding;catalytic activity;protein dephosphorylation;cation binding;hydrolase activity;protein serine/threonine phosphatase activity;phosphoprotein phosphatase activity;metal ion binding;catalytic activity	
+2	226136607	226148698	Zm00001d007267	1	NO	lhcb5;light harvesting chlorophyll a/b binding protein5:	"thylakoid;plastid;chloroplast thylakoid membrane;photosystem II;photosystem I;chloroplast;protein-chromophore linkage;photosynthesis;chlorophyll binding;photosynthesis, light harvesting;membrane;integral component of membrane"	
+2	226142352	226154558	Zm00001d007268	1	NO	L-type lectin-domain containing receptor kinase IX.1	carbohydrate binding;phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+2	226776429	226786725	Zm00001d007280	1	NO	zar3;Zea mays ARGOS homolog3: putative auxin response gene regulating organ size	integral component of membrane;membrane	
+2	227274908	227288960	Zm00001d007301	1	NO	pdi2;protein disulfide isomerase2:	protein disulfide isomerase activity;isomerase activity;cell redox homeostasis;endoplasmic reticulum;cell	
+2	230333653	230346206	Zm00001d007382	1	NO	Transcription factor ICE1	protein dimerization activity	
+2	230680598	230697435	Zm00001d007395	1	NO	Indole-3-acetic acid-amido synthetase GH3.17	NA	
+2	230755361	230785878	Zm00001d007397	1	NO	Metal transporter Nramp6	transport;transporter activity;membrane;integral component of membrane	
+2	231124787	231135699	Zm00001d007411	1	NO	NADH-ubiquinone reductase complex 1 MLRQ subunit	NA	
+2	238888820	238900010	Zm00001d007753	1	NO	Eukaryotic aspartyl protease family protein	aspartic-type endopeptidase activity;proteolysis;peptidase activity	
+2	239867916	239881980	Zm00001d007801	1	NO	NA	NA	
+2	240144774	240156783	Zm00001d007816	1	NO	NA	nucleic acid binding;zinc ion binding	
+3	1050429	1069364	Zm00001d039287	2	NO	VHS domain-containing protein	intracellular protein transport;intracellular	
+3	2981349	2992492	Zm00001d039382	1	NO	Os07g0585250 protein	NA	
+3	6768232	6782038	Zm00001d039521	1	NO	Zinc finger CCCH domain-containing protein 59	;integral component of membrane;membrane	
+3	7080192	7091610	Zm00001d039524	1	NO	Transposon protein CACTA%2C En/Spm sub-class	NA	
+3	7128054	7138722	Zm00001d039527	1	NO	NA	integral component of membrane;membrane	
+3	10948007	10958435	Zm00001d039661	1	NO	Lactoylglutathione lyase	lyase activity	
+3	16781916	16804630	Zm00001d039856	1	NO	Geranylgeranyl transferase type-1 subunit beta	3-hydroxy-lignoceroyl-CoA dehydratase activity;3-hydroxy-behenoyl-CoA dehydratase activity;fatty acid metabolic process;lyase activity;fatty acid biosynthetic process;lipid metabolic process;endoplasmic reticulum membrane;endoplasmic reticulum;transferase activity;integral component of membrane;membrane;3-hydroxy-arachidoyl-CoA dehydratase activity;transferase activity;catalytic activity;catalytic activity;CAAX-protein geranylgeranyltransferase activity;response to water deprivation;response to auxin;response to abscisic acid;protein geranylgeranylation	
+3	17261726	17277686	Zm00001d039867	2	NO	Factor of DNA methylation 4	;gene silencing by RNA	
+3	27948105	27959241	Zm00001d040109	1	NO	NA	NA	
+3	27952742	27963215	Zm00001d040110	1	NO	NA	NA	
+3	31622408	31635769	Zm00001d040192	1	NO	C-type lectin receptor-like tyrosine-protein kinase	carbohydrate binding;peptidyl-tyrosine phosphorylation;protein tyrosine kinase activity;phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+3	31626301	31646725	Zm00001d040193	1	NO	ARM repeat superfamily protein	snRNA processing;integrator complex;;integral component of membrane;membrane	
+3	33405918	33419673	Zm00001d040243	1	NO	Sugar transporter ERD6-like 3	carbohydrate transport;transport;substrate-specific transmembrane transporter activity;transmembrane transporter activity;transporter activity;transmembrane transport;integral component of membrane;membrane	
+3	35238925	35249473	Zm00001d040271	1	NO	NA	negative regulation of catalytic activity;enzyme inhibitor activity	
+3	37992055	38015551	Zm00001d040322	1	NO	ATP-dependent Clp protease proteolytic subunit	proteolysis;peptidase activity;serine-type endopeptidase activity	
+3	38773973	38791131	Zm00001d040340	1	NO	PQ-loop repeat family protein / transmembrane family protein	integral component of membrane;membrane	
+3	43096748	43122241	Zm00001d040429	1	NO	ago105;argonaute105:	gene silencing by RNA;nucleic acid binding;	
+3	47287181	47298995	Zm00001d040504	1	NO	early nodulin-like protein 18	electron carrier activity	
+3	64730775	64741904	Zm00001d040771	1	NO	NA	NA	
+3	68294131	68305672	Zm00001d040830	1	NO	Eukaryotic translation initiation factor 3 subunit E	eukaryotic translation initiation factor 3 complex;cytoplasm;translational initiation;translation;translation initiation factor activity	
+3	108220880	108232578	Zm00001d041250	1	NO	NA	NA	
+3	119528726	119540274	Zm00001d041437	1	NO	IQ-domain 19	NA	
+3	122409822	122421911	Zm00001d041476	1	NO	Protein kinase superfamily protein	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding	
+3	122807178	122819203	Zm00001d041481	1	NO	Patatin-like protein 6	lipid metabolic process;lipid catabolic process;metabolic process;hydrolase activity	
+3	125555575	125566600	Zm00001d041518	1	NO	Expressed protein;  protein	integral component of membrane;membrane	
+3	126517185	126528196	Zm00001d041544	1	NO	NA	NA	
+3	134681865	134698750	Zm00001d041715	1	NO	VIN3-like protein 1	NA	
+3	134915178	134931568	Zm00001d041718	1	NO	NA	NA	
+3	140870425	140881585	Zm00001d041853	1	NO	"myb8;myb transcription factor8: Locus designated and assigned to a transcription factor family by the GRASSIUS project (Yilmaz et al 2009) , which also provided the mappings to the B73_Reference Genome sequence v2 gene models."	DNA binding	
+3	144471750	144498274	Zm00001d041938	1	NO	Receptor-like kinase LIP2	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding	
+3	149271413	149283330	Zm00001d042061	1	NO	NADPH:quinone oxidoreductase	oxidation-reduction process;oxidoreductase activity	
+3	150848652	150860137	Zm00001d042107	1	NO	Polcalcin Jun o 2	calcium ion binding	
+3	152230248	152249672	Zm00001d042128	1	NO	Crossover junction endonuclease MUS81	nuclease activity;endonuclease activity;nucleic acid phosphodiester bond hydrolysis;DNA binding	
+3	152436251	152455630	Zm00001d042131	1	NO	Serine/threonine-protein kinase TIO	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;kinesin binding;cytokinesis by cell plate formation;male meiosis cytokinesis;embryo sac cellularization;phragmoplast	
+3	153208288	153219418	Zm00001d042139	1	NO	NA	NA	
+3	156417305	156428867	Zm00001d042216	1	NO	Glutathione S-transferase 3	transferase activity;drug binding;response to herbicide;glutathione transferase activity;protein homodimerization activity;protein complex;transferase activity;drug binding;response to herbicide;glutathione transferase activity;protein homodimerization activity;protein complex;transferase activity;drug binding;response to herbicide;glutathione transferase activity;protein homodimerization activity;protein complex	
+3	157653884	157671005	Zm00001d042258	1	NO	RING finger protein	NA	
+3	157660994	157682732	Zm00001d042259	1	NO	Prefoldin chaperone subunit family protein	NA	
+3	160264957	160278101	Zm00001d042309	1	NO	F-box only protein 6	NA	
+3	162106302	162119273	Zm00001d042341	1	NO	NA	NA	
+3	162534736	162547986	Zm00001d042350	1	NO	RING/U-box superfamily protein	NA	
+3	163183684	163197336	Zm00001d042357	1	NO	Protein XRI1	NA	
+3	163349387	163362556	Zm00001d042366	1	NO	NA	NA	
+3	164033335	164043655	Zm00001d042383	1	NO	NA	NA	
+3	172141585	172152418	Zm00001d042564	1	NO	Mitogen-activated protein kinase kinase 9	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding	
+3	178328199	178343134	Zm00001d042729	1	NO	VAMP-like protein YKT61	transport;vesicle-mediated transport;integral component of membrane;membrane	
+3	185644646	185659952	Zm00001d042979	1	NO	ATP binding protein	protein phosphorylation;protein kinase activity;ATP binding;	
+3	187192753	187203778	Zm00001d043041	2	NO	Probable xyloglucan 6-xylosyltransferase 5	"transferase activity, transferring glycosyl groups;integral component of membrane;transferase activity"	
+3	188858997	188869635	Zm00001d043087	1	NO	GTP binding protein	NA	
+3	192673071	192684192	Zm00001d043234	1	NO	NTF2-like	transport;intracellular	
+3	200570782	200585113	Zm00001d043459	1	NO	mkkk47;MAP kinase kinase kinase47: function inferrred from sequence similarity (Kong et al 2013)	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding	
+3	201131891	201149497	Zm00001d043471	1	NO	Transducin family protein / WD-40 repeat family protein	"hydrolase activity, acting on ester bonds"	
+3	201677717	201696982	Zm00001d043492	1	NO	Probable lipid-A-disaccharide synthase mitochondrial	lipid A biosynthetic process;lipid-A-disaccharide synthase activity;lipid A biosynthetic process;lipid-A-disaccharide synthase activity;lipid X metabolic process;mitochondrion;lipid X metabolic process;mitochondrion	
+3	202321339	202336133	Zm00001d043508	1	NO	Tryptophan--tRNA ligase chloroplastic/mitochondrial	aminoacyl-tRNA ligase activity;ligase activity;tRNA aminoacylation for protein translation;cytoplasm;translation;ATP binding;nucleotide binding;tryptophan-tRNA ligase activity;tryptophanyl-tRNA aminoacylation;plant ovule development;mitochondrion;chloroplast;chloroplast stroma	
+3	203301425	203320268	Zm00001d043539	1	NO	NADPH reductase TAH18	"FMN binding;oxidoreductase activity;oxidation-reduction process;NADP binding;flavin adenine dinucleotide binding;NADPH-hemoprotein reductase activity;iron-sulfur cluster assembly;cytoplasm;oxidoreductase activity, acting on NAD(P)H;embryo development ending in seed dormancy;nucleus"	
+3	203689830	203700444	Zm00001d043554	1	NO	Werner syndrome ATP-dependent helicase	3'-5' exonuclease activity;nucleic acid phosphodiester bond hydrolysis;nucleobase-containing compound metabolic process;helicase activity;nucleic acid binding	
+3	203686801	203697308	Zm00001d043553	1	NO	NA	NA	
+3	203945868	203965201	Zm00001d043563	2	NO	ATP-dependent 6-phosphofructokinase 3	fructose 6-phosphate metabolic process;glycolytic process through fructose-6-phosphate;glycolytic process;6-phosphofructokinase activity;catalytic activity;metabolic process;phosphorylation;kinase activity;cytoplasm;ATP binding;nucleotide binding;transferase activity;metal ion binding;fructose 6-phosphate metabolic process;glycolytic process through fructose-6-phosphate;glycolytic process;6-phosphofructokinase activity;catalytic activity;metabolic process;phosphorylation;kinase activity;cytoplasm;ATP binding;nucleotide binding;transferase activity;metal ion binding;fructose 6-phosphate metabolic process;glycolytic process through fructose-6-phosphate;glycolytic process;6-phosphofructokinase activity;catalytic activity;metabolic process;phosphorylation;kinase activity;cytoplasm;ATP binding;nucleotide binding;transferase activity;metal ion binding;fructose 6-phosphate metabolic process;glycolytic process through fructose-6-phosphate;glycolytic process;6-phosphofructokinase activity;catalytic activity;metabolic process;phosphorylation;kinase activity;cytoplasm;ATP binding;nucleotide binding;transferase activity;metal ion binding;fructose 6-phosphate metabolic process;glycolytic process through fructose-6-phosphate;glycolytic process;6-phosphofructokinase activity;catalytic activity;metabolic process;phosphorylation;kinase activity;cytoplasm;ATP binding;nucleotide binding;transferase activity;metal ion binding	
+3	204717247	204737334	Zm00001d043598	1	NO	ABC transporter G family member 29	ATPase activity;transport;ATP binding;nucleotide binding;membrane;integral component of membrane	
+3	205131822	205143473	Zm00001d043611	1	NO	R2R3MYB-domain protein	DNA binding	
+3	205147631	205159600	Zm00001d043612	1	NO	Protein MARD1	NA	
+3	205236184	205250939	Zm00001d043614	1	NO	Probable sulfate transporter 3.5	sulfate transmembrane transport;sulfate transport;sulfate transmembrane transporter activity;secondary active sulfate transmembrane transporter activity;transport;transmembrane transport;integral component of membrane;membrane	
+3	208447423	208461825	Zm00001d043727	1	NO	fps3;farnesyl diphosphate synthase3: terpene based defense (Richter et al 2015)	isoprenoid biosynthetic process;transferase activity	
+3	211315510	211326978	Zm00001d043837	1	NO	Transcription factor MYB36	DNA binding	
+3	213156401	213176531	Zm00001d043890	1	NO	Protein MALE DISCOVERER 2	protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane;	
+3	214831513	214845243	Zm00001d043959	1	NO	Protein kinase superfamily protein	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;integral component of membrane;membrane	
+3	215341971	215352825	Zm00001d043969	1	NO	GATA transcription factor 19	"zinc ion binding;sequence-specific DNA binding;regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding"	
+3	215845507	215871477	Zm00001d043992	1	NO	bzip1;bZIP transcription factor1:	"regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;;transcription regulatory region sequence-specific DNA binding"	
+3	216242582	216254147	Zm00001d044005	1	NO	NA	NA	
+3	216433639	216444909	Zm00001d044010	1	NO	Probable WRKY transcription factor 30	"sequence-specific DNA binding;regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding"	
+3	217052372	217068766	Zm00001d044024	1	NO	umi8;ustilago maydis induced8:	CTP synthase activity;CTP biosynthetic process;pyrimidine nucleotide biosynthetic process;'de novo' CTP biosynthetic process;glutamine metabolic process;ligase activity;ATP binding;nucleotide binding	
+3	217128388	217153237	Zm00001d044025	1	NO	NA	NA	
+3	217227128	217238633	Zm00001d044030	1	NO	UDP-Glycosyltransferase superfamily protein	transferase activity	
+3	217262305	217273784	Zm00001d044031	1	NO	TRICHOME BIREFRINGENCE-LIKE 20	NA	
+3	217275240	217287156	Zm00001d044033	1	NO	TRICHOME BIREFRINGENCE-LIKE 20	integral component of membrane;membrane	
+3	217290175	217300784	Zm00001d044034	1	NO	DUF538 family protein	NA	
+3	217471456	217485759	Zm00001d044040	1	NO	GDSL esterase/lipase	"hydrolase activity, acting on ester bonds"	
+3	217879261	217898731	Zm00001d044053	1	NO	Phospholipase A1-IIgamma	phosphatidylcholine 1-acylhydrolase activity;lipid metabolic process;hydrolase activity	
+3	218069823	218084681	Zm00001d044059	2	NO	alpha/beta-Hydrolases superfamily protein	hydrolase activity;integral component of membrane;membrane;catalytic activity	
+3	218255054	218266481	Zm00001d044065	2	NO	DELLA protein RGA	"regulation of transcription, DNA-templated;transcription, DNA-templated"	
+3	218440281	218451520	Zm00001d044079	1	NO	Tat pathway signal sequence family protein	NA	
+3	218476322	218490402	Zm00001d044081	1	NO	Homeobox-leucine zipper protein ATHB-4	"sequence-specific DNA binding;nucleus;regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+3	218820200	218834720	Zm00001d044090	1	NO	HD domain containing protein	;chloroplast	
+3	218826924	218842312	Zm00001d044091	1	NO	mkkk55;MAP kinase kinase kinase55: function inferred from sequence similarity (Kong et al 2013)	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding	
+3	221157822	221168998	Zm00001d044173	1	NO	Probable desiccation-related protein LEA14	response to desiccation;	
+3	221163477	221180604	Zm00001d044175	1	NO	Neutral/alkaline non-lysosomal ceramidase	NA	
+3	221296455	221309723	Zm00001d044184	1	NO	Protein ABIL1	NA	
+3	221499897	221516731	Zm00001d044191	2	NO	Extra-large G-protein-like;  protein	NA	
+3	221631992	221647811	Zm00001d044195	1	NO	Polypyrimidine tract-binding protein homolog 2	RNA binding;nucleic acid binding;	
+3	222537813	222553835	Zm00001d044232	1	NO	Protein EARLY FLOWERING 3	NA	
+3	222996191	223006980	Zm00001d044247	1	NO	trh3;thioredoxin h homolog3:	nucleosome;protein heterodimerization activity;chromosome;nucleus;DNA binding	
+3	224344905	224357639	Zm00001d044288	1	NO	alpha/beta-Hydrolases superfamily protein	hydrolase activity	
+3	224348596	224365093	Zm00001d044289	1	NO	alpha/beta-Hydrolases superfamily protein	hydrolase activity;integral component of membrane;membrane	
+3	226358228	226370057	Zm00001d044374	1	NO	NA	integral component of membrane;membrane	
+3	226536072	226550175	Zm00001d044382	1	NO	alpha/beta-Hydrolases superfamily protein	hydrolase activity	
+3	229005501	229020061	Zm00001d044469	1	NO	Heterogeneous nuclear ribonucleoprotein A3-like protein 2	intracellular ribonucleoprotein complex;viral nucleocapsid;RNA binding;nucleic acid binding	
+4	1053559	1065856	Zm00001d048604	1	NO	NA	"regulation of transcription, DNA-templated;transcription, DNA-templated"	
+4	1302131	1314817	Zm00001d048614	1	NO	Probable GTP-binding protein OBGM mitochondrial	GTP binding	
+4	1733291	1746620	Zm00001d048627	1	NO	ATP-citrate synthase alpha chain protein 3	;;;;;	
+4	1737938	1755365	Zm00001d048628	1	NO	ARM repeat superfamily protein	NA	
+4	3232296	3254838	Zm00001d048684	1	NO	Cysteine-rich receptor-like protein kinase 8	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding	
+4	6028089	6040517	Zm00001d048825	1	NO	Inner membrane protease subunit 1%2C nuclear encoding mitochondrial protein%2C mRNA	proteolysis;peptidase activity;serine-type peptidase activity;membrane	
+4	6033404	6046130	Zm00001d048829	1	NO	Remorin family protein	NA	
+4	6030498	6041151	Zm00001d048826	1	NO	NA	defense response	
+4	6228384	6239460	Zm00001d048843	1	NO	mab9;math-btb9:	NA	
+4	6860551	6884836	Zm00001d048876	2	NO	OSJNBa0016N04.16 protein; OSJNBb0042I07.4 protein	protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane;carbohydrate binding	
+4	14488118	14498396	Zm00001d049061	1	NO	NA	NA	
+4	14927323	14951292	Zm00001d049076	1	NO	Putative phosphatidylinositol kinase	phosphatidylinositol-mediated signaling;phosphatidylinositol phosphorylation;phosphorylation;kinase activity;intracellular;transferase activity;integral component of membrane;membrane	
+4	17570403	17588311	Zm00001d049141	1	NO	Auxin-responsive protein IAA26	"auxin-activated signaling pathway;nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated"	
+4	17742403	17754772	Zm00001d049145	1	NO	Putative CRINKLY4-like receptor protein kinase family protein	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+4	17887779	17904598	Zm00001d049152	1	NO	"prda1;pep-related development arrested1 homolog: Ortholog of Arabidopsis PRDA1. Chloroplast nucleoid protein. Required for transcription by the plastid-encoded polymerase (PEP). (A. Barkan, 2015) ortholog of Arabidopsis PRDA1, a cp nucleoid protein involved in PEP- mediated transcription; cpRNA defects in maize similar to other PEP-deficient mutants"	"regulation of transcription, DNA-templated;chloroplast organization;chloroplast nucleoid"	
+4	23471124	23485224	Zm00001d049260	1	NO	Long chain base biosynthesis protein 2a	biosynthetic process;pyridoxal phosphate binding;transferase activity;metabolic process;catalytic activity	
+4	25523212	25537510	Zm00001d049305	1	NO	HSP20-like chaperones superfamily protein	NA	
+4	29593344	29604729	Zm00001d049408	1	NO	Pentatricopeptide repeat (PPR) superfamily protein	NA	
+4	33384041	33396614	Zm00001d049529	1	NO	Homeobox-leucine zipper protein REVOLUTA	DNA binding	
+4	33812769	33825095	Zm00001d049541	1	NO	Flavone 3'-O-methyltransferase 1	O-methyltransferase activity;methyltransferase activity;methylation;transferase activity;protein dimerization activity;acetylserotonin O-methyltransferase activity;luteolin O-methyltransferase activity;lignin biosynthetic process;melatonin biosynthetic process;flavonol biosynthetic process;phenylpropanoid biosynthetic process;caffeate O-methyltransferase activity	
+4	35615656	35630333	Zm00001d049571	1	NO	TMPIT-like protein	integral component of membrane;membrane	
+4	35621365	35637359	Zm00001d049572	1	NO	Sphingoid long-chain bases kinase 1	phosphorylation;kinase activity;integral component of membrane;membrane;NAD+ kinase activity;metabolic process	
+4	37965635	37978407	Zm00001d049624	1	NO	Magnesium transporter CorA-like family protein	metal ion transmembrane transporter activity;metal ion transport;transmembrane transport;membrane;integral component of membrane	
+4	37962767	37975066	Zm00001d049623	1	NO	SNARE-associated protein-related	intracellular protein transport;BLOC-1 complex	
+4	37971398	37982580	Zm00001d049625	1	NO	Protein LSD1	NA	
+4	38171232	38183584	Zm00001d049633	1	NO	GTP binding	NA	
+4	38390586	38404838	Zm00001d049637	1	NO	Chloroplast J-like domain 1	integral component of membrane;membrane	
+4	40457578	40469305	Zm00001d049692	1	NO	Agamous-like MADS-box protein AGL12	"positive regulation of transcription from RNA polymerase II promoter;RNA polymerase II regulatory region sequence-specific DNA binding;nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding;protein dimerization activity"	
+4	40455274	40469504	Zm00001d049691	1	NO	Succinate dehydrogenase subunit 6 mitochondrial	"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone);"	
+4	44976189	44990634	Zm00001d049797	1	NO	NA	NA	
+4	46281816	46295661	Zm00001d049821	1	NO	DHBP synthase RibB-like alpha/beta domain	double-stranded RNA binding	
+4	46590399	46630911	Zm00001d049823	1	NO	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase 2	nucleoside metabolic process;catalytic activity	
+4	52243471	52257923	Zm00001d049913	1	NO	NAC domain containing protein 71	"integral component of membrane;membrane;nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;DNA binding"	
+4	61548231	61559013	Zm00001d050036	1	NO	MATH domain containing protein	NA	
+4	76134696	76161035	Zm00001d050248	1	NO	NA	heme binding;metal ion binding;	
+4	76344533	76356893	Zm00001d050250	1	NO	NA	NA	
+4	84242503	84253847	Zm00001d050368	1	NO	HMG-Y-related protein A	"nucleosome;nucleosome assembly;nucleus;regulation of transcription, DNA-templated;DNA binding;chromatin"	
+4	86679719	86692129	Zm00001d050412	1	NO	Chorismate mutase 2	aromatic amino acid family biosynthetic process;chorismate mutase activity;chorismate metabolic process	
+4	94920858	94933987	Zm00001d050509	1	NO	Cation/H(+) antiporter 1	hydrogen ion transmembrane transport;solute:proton antiporter activity;transmembrane transport;cation transport;integral component of membrane;membrane	
+4	126953963	126967865	Zm00001d050850	1	NO	Cryptochrome 2	blue light photoreceptor activity;blue light signaling pathway;	
+4	126954985	126989791	Zm00001d050851	1	NO	CMP-sialic acid transporter 5	proton transport;carbohydrate transport;sugar:proton symporter activity;Golgi membrane;integral component of membrane;membrane	
+4	133636371	133649757	Zm00001d050961	2	NO	N-acetylglucosaminyltransferase III	"protein N-linked glycosylation;membrane;transferase activity, transferring glycosyl groups;transferase activity;integral component of membrane;beta-1,4-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity;protein N-linked glycosylation;membrane;transferase activity, transferring glycosyl groups;transferase activity;integral component of membrane;beta-1,4-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity"	
+4	134982117	134996511	Zm00001d050981	1	NO	Actin-related protein 3	;actin filament organization;Arp2/3 protein complex;Arp2/3 complex-mediated actin nucleation;ATP binding	
+4	138837282	138855449	Zm00001d051052	1	NO	Splicing factor%2C arginine/serine-rich 7	RNA binding;nucleic acid binding;zinc ion binding	
+4	140067303	140081402	Zm00001d051065	1	NO	Nuclear cap-binding protein subunit 2	";RNA binding;nucleic acid binding;nucleus;RNA cap binding;mRNA cis splicing, via spliceosome;nuclear cap binding complex;mRNA processing;RNA splicing"	
+4	143179893	143214446	Zm00001d051111	1	NO	DExH-box ATP-dependent RNA helicase DExH17	helicase activity;ATP binding;nucleic acid binding	
+4	147330724	147352180	Zm00001d051178	1	NO	NA	integral component of membrane;membrane	
+4	150493265	150508275	Zm00001d051249	1	NO	Elicitor-responsive protein 3	NA	
+4	150564015	150577646	Zm00001d051250	1	NO	Thioredoxin	cell;oxidation-reduction process;cell redox homeostasis;glycerol ether metabolic process;protein disulfide oxidoreductase activity	
+4	156357348	156369213	Zm00001d051373	1	NO	Peroxisome biogenesis protein 19-1	peroxisome	
+4	156359789	156370286	Zm00001d051374	1	NO	Peroxisome biogenesis protein 19-1	NA	
+4	156361550	156376415	Zm00001d051375	1	NO	NA	NA	
+4	156541030	156551425	Zm00001d051384	1	NO	Cortical cell-delineating protein	NA	
+4	164058973	164070253	Zm00001d051598	1	NO	Plant-specific domain TIGR01570 family protein	NA	
+4	164066426	164095678	Zm00001d051599	1	NO	RabGAP/TBC domain-containing protein	integral component of membrane;membrane;;cytosol	
+4	166828915	166843338	Zm00001d051690	1	NO	Putative RING zinc finger domain superfamily protein isoform 1%3B Putative RING zinc finger domain superfamily protein isoform 2	metal ion binding	
+4	166834700	166846181	Zm00001d051691	1	NO	DUF506 family protein	NA	
+4	166932912	166944656	Zm00001d051693	1	NO	Aspartyl protease AED1	aspartic-type endopeptidase activity;proteolysis;peptidase activity;hydrolase activity	
+4	166935823	166946113	Zm00001d051694	1	NO	NA	NA	
+4	169927357	169937617	Zm00001d051798	1	NO	NA	NA	
+4	170031696	170044992	Zm00001d051804	1	NO	Glutamine synthetase root isozyme 4	nitrogen compound metabolic process;catalytic activity;glutamate-ammonia ligase activity;glutamine biosynthetic process;nitrogen compound metabolic process;catalytic activity;glutamate-ammonia ligase activity;glutamine biosynthetic process;nitrogen compound metabolic process;catalytic activity;glutamate-ammonia ligase activity;glutamine biosynthetic process;nitrogen compound metabolic process;catalytic activity;glutamate-ammonia ligase activity;glutamine biosynthetic process;ligase activity;ATP binding;nucleotide binding;ligase activity;ATP binding;nucleotide binding;ligase activity;ATP binding;nucleotide binding;ligase activity;ATP binding;nucleotide binding;cytoplasm;cytoplasm;cytoplasm;cytoplasm	
+4	173819341	173830720	Zm00001d051892	1	NO	Anthocyanin 5-aromatic acyltransferase	"transferase activity, transferring acyl groups;transferase activity, transferring acyl groups other than amino-acyl groups;transferase activity"	
+4	176735635	176750413	Zm00001d052021	1	NO	DNA replication licensing factor MCM5	MCM complex;DNA replication initiation;DNA replication origin binding;chromatin binding;DNA replication;DNA duplex unwinding;DNA helicase activity;ATP binding;nucleotide binding;nucleus;DNA binding;helicase activity;hydrolase activity	
+4	177894414	177905969	Zm00001d052054	1	NO	sequence-specific DNA binding transcription factors	protein dimerization activity	
+4	186138719	186150605	Zm00001d052292	1	NO	Probable galacturonosyltransferase-like 9	"transferase activity, transferring glycosyl groups;transferase activity"	
+4	193034267	193045628	Zm00001d052558	1	NO	NA	isomerase activity;apoplast;extracellular region	
+4	211820818	211842744	Zm00001d053064	1	NO	NA	NA	
+4	217551068	217561547	Zm00001d053165	1	NO	NA	NA	
+4	218012452	218026002	Zm00001d053173	1	NO	Autophagy-related protein 13b	ATG1/ULK1 kinase complex;autophagy;	
+4	224309851	224320663	Zm00001d053288	1	NO	Fasciclin-like arabinogalactan protein 6	NA	
+4	235416742	235428271	Zm00001d053586	1	NO	Putative cytochrome P450 superfamily protein	"oxidation-reduction process;heme binding;oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen;iron ion binding"	
+4	235575791	235598799	Zm00001d053589	1	NO	Serine/threonine-protein phosphatase	hydrolase activity;hydrolase activity;protein dephosphorylation;phosphoprotein phosphatase activity;protein dephosphorylation;phosphoprotein phosphatase activity;integral component of membrane;membrane;integral component of membrane;membrane	
+4	235969581	235980690	Zm00001d053600	2	NO	NA	NA	
+4	236994463	237011338	Zm00001d053622	1	NO	zfp30;putative zinc finger protein30:	metal ion binding	
+4	238233007	238246649	Zm00001d053652	1	NO	Peptidyl-prolyl cis-trans isomerase	protein peptidyl-prolyl isomerization;isomerase activity;peptidyl-prolyl cis-trans isomerase activity	
+4	239926355	239939020	Zm00001d053728	1	NO	Nucleolin	NA	
+4	242276659	242290564	Zm00001d053855	1	NO	DNA binding protein isoform 1%3B DNA binding protein isoform 2	"defense response;single-stranded DNA binding;regulation of transcription, DNA-templated;DNA binding;mRNA binding;DNA repair;mitochondrion"	
+4	244876871	244906087	Zm00001d054001	1	NO	Protein arginine N-methyltransferase 1.5	"peptidyl-arginine N-methylation;protein methylation;methyltransferase activity;methylation;transferase activity;nucleus;regulation of alternative mRNA splicing, via spliceosome;mRNA methylation"	
+4	245026731	245049871	Zm00001d054005	1	NO	AP-3 complex subunit mu	;transport;clathrin adaptor complex;protein transport;intracellular protein transport;vesicle-mediated transport	
+4	245040258	245050943	Zm00001d054006	1	NO	NA	NA	
+4	245042656	245060438	Zm00001d054008	1	NO	Mevalonate kinase	"isoprenoid biosynthetic process;lipid metabolic process;phosphorylation;kinase activity;cytoplasm;ATP binding;nucleotide binding;transferase activity;steroid biosynthetic process;steroid metabolic process;sterol biosynthetic process;mevalonate kinase activity;isopentenyl diphosphate biosynthetic process, mevalonate pathway"	
+5	1295450	1306239	Zm00001d012864	1	NO	NA	integral component of membrane;membrane	
+5	1568806	1583947	Zm00001d012882	1	NO	Protein kinase protein with adenine nucleotide alpha hydrolases-like domain	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;hydrolase activity;protein serine/threonine kinase activity;nucleotide binding	
+5	1903305	1920026	Zm00001d012916	1	NO	Squamosa promoter-binding-like protein 1	metal ion binding;nucleus;DNA binding;integral component of membrane;membrane	
+5	3481306	3492932	Zm00001d013031	1	NO	NA	NA	
+5	3727917	3741177	Zm00001d013046	1	NO	Lipid phosphate phosphatase delta	integral component of membrane;membrane	
+5	9829794	9843085	Zm00001d013367	1	NO	Tubulin alpha-4 chain	microtubule;microtubule-based process;cytoskeleton organization;structural constituent of cytoskeleton;cytoskeleton;GTP binding;GTPase activity;cytoplasm;nucleotide binding	
+5	23451902	23462294	Zm00001d013869	1	NO	Auxin-responsive protein SAUR32	response to auxin	
+5	30415457	30430053	Zm00001d014043	1	NO	PPPDE peptidase domain-containing protein 2	nucleus;cytoplasm	
+5	32612902	32624876	Zm00001d014103	1	NO	AT5G26920 (E=2e-022) CBP60G | CBP60G (CAM-BINDING PROTEIN 60-LIKE.G); calmodulin binding	protein phosphorylation;protein kinase activity;ATP binding	
+5	32773094	32816691	Zm00001d014109	1	NO	transmembrane protein-related	integral component of membrane;membrane	
+5	34110758	34123808	Zm00001d014145	1	NO	NA	NA	
+5	34113096	34123983	Zm00001d014146	1	NO	Hsp20/alpha crystallin family protein	integral component of membrane;membrane	
+5	53731832	53763491	Zm00001d014569	1	NO	Probable cadmium/zinc-transporting ATPase HMA1 chloroplastic	cation-transporting ATPase activity;ATP hydrolysis coupled cation transmembrane transport;cation transport;integral component of membrane;hydrolase activity;membrane;zinc II ion transmembrane transport;zinc-transporting ATPase activity;ATPase activity;cellular copper ion homeostasis;response to light intensity;zinc ion homeostasis;chloroplast;plastid;chloroplast envelope	
+5	61268486	61279832	Zm00001d014748	1	NO	(Z)-3-hexen-1-ol acetyltransferase	"transferase activity, transferring acyl groups other than amino-acyl groups;transferase activity"	
+5	63339714	63350106	Zm00001d014790	1	NO	Chaperone protein dnaJ 11	NA	
+5	76860019	76876810	Zm00001d015141	1	NO	CONTAINS InterPro DOMAIN/s: Ubiquitin-conjugating enzyme E2C-binding protein (InterPro:IPR019193); Has 26 Blast hits to 25 proteins in 9 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 26; Viruses - 0; Other Eukaryotes - 0 (sourc /.../I BLink).	NA	
+5	80276071	80294642	Zm00001d015234	1	NO	Cycloartenol synthase	intramolecular transferase activity;isomerase activity	
+5	85114954	85126228	Zm00001d015338	2	NO	OSJNBa0058K23.8 protein;  protein	NA	
+5	91582913	91595987	Zm00001d015460	1	NO	Probable small nuclear ribonucleoprotein F	"spliceosomal complex;mRNA splicing, via spliceosome;intracellular ribonucleoprotein complex;RNA binding;nucleus;spliceosomal snRNP assembly;mRNA processing;RNA splicing;small nucleolar ribonucleoprotein complex;viral nucleocapsid"	
+5	92328359	92338901	Zm00001d015475	1	NO	RING-H2 finger protein ATL2L	integral component of membrane;membrane	
+5	104738192	104748665	Zm00001d015669	1	NO	NA	NA	
+5	128728433	128740702	Zm00001d015884	1	NO	Protein kinase	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+5	130942371	130955710	Zm00001d015914	1	NO	sweet4b;sugars will eventually be exported transporter4b:	carbohydrate transport;transport;integral component of membrane;membrane	
+5	132833540	132847358	Zm00001d015939	1	NO	Pre-mRNA-processing factor 19 homolog 2	protein ubiquitination;ubiquitin-protein transferase activity	
+5	133436549	133447802	Zm00001d015945	1	NO	Topless-related protein 2	NA	
+5	145585206	145596017	Zm00001d016121	1	NO	NA	NA	
+5	145727053	145739414	Zm00001d016128	1	NO	NA	NA	
+5	150347205	150358890	Zm00001d016199	1	NO	FAD-binding Berberine family protein	"flavin adenine dinucleotide binding;oxidoreductase activity, acting on CH-OH group of donors;oxidoreductase activity;oxidation-reduction process;catalytic activity"	
+5	150350001	150361922	Zm00001d016200	1	NO	NA	intracellular ribonucleoprotein complex;ribosome;translation;structural constituent of ribosome;intracellular;	
+5	151547379	151557993	Zm00001d016235	1	NO	NA	NA	
+5	153712773	153724275	Zm00001d016255	1	NO	Heat stress transcription factor C-1	"nucleus;sequence-specific DNA binding;regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+5	156557154	156568470	Zm00001d016307	1	NO	Probable F-box protein	NA	
+5	158884636	158898874	Zm00001d016354	2	NO	Putative transcription factor bHLH041	protein dimerization activity	
+5	159100838	159112379	Zm00001d016359	1	NO	General transcription factor 2-related zinc finger protein	nucleic acid binding	
+5	159214012	159226123	Zm00001d016361	1	NO	Putative GATA transcription factor 22	"zinc ion binding;sequence-specific DNA binding;regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding"	
+5	160551110	160564708	Zm00001d016389	1	NO	NA	NA	
+5	162990367	163001627	Zm00001d016457	1	NO	Probable WRKY transcription factor 11	"sequence-specific DNA binding;regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding"	
+5	178499960	178513727	Zm00001d016860	1	NO	gst17;glutathione transferase17:	cytoplasm;transferase activity;catalytic activity;aromatic amino acid family metabolic process;glutathione transferase activity	
+5	179256829	179269286	Zm00001d016879	1	NO	Probable protein kinase	peptidyl-tyrosine phosphorylation;protein tyrosine kinase activity;protein phosphorylation;protein kinase activity;ATP binding	
+5	180086671	180099358	Zm00001d016923	1	NO	60S ribosomal protein L10a-1	large ribosomal subunit;ribosome;translation;structural constituent of ribosome;RNA binding	
+5	185435354	185448605	Zm00001d017101	1	NO	Protein binding protein	"zinc ion binding;nucleus;regulation of transcription, DNA-templated;transcription cofactor activity;histone acetyltransferase activity;histone acetylation"	
+5	185441006	185451342	Zm00001d017102	1	NO	NA	NA	
+5	185441842	185455448	Zm00001d017103	1	NO	transcription regulators	"negative regulation of transcription from RNA polymerase III promoter;nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated"	
+5	189457353	189467787	Zm00001d017225	1	NO	NA	NA	
+5	196092028	196105351	Zm00001d017448	1	NO	Vesicle-associated protein 2-1	endoplasmic reticulum membrane;integral component of membrane;membrane	
+5	197275407	197286892	Zm00001d017485	1	NO	tip2b;tonoplast intrinsic protein2:	vacuolar membrane;vacuole;transport;transporter activity;membrane;integral component of membrane;protein storage vacuole membrane;	
+5	197717483	197733745	Zm00001d017502	1	NO	trpp6;trehalose-6-phosphate phosphatase6:	trehalose-phosphatase activity;trehalose biosynthetic process;dephosphorylation;hydrolase activity;catalytic activity;response to cold;response to salt stress	
+5	199608954	199626606	Zm00001d017560	1	NO	iddp10;indeterminate domain p10:	metal ion binding;nucleic acid binding;	
+5	200650864	200663911	Zm00001d017583	1	NO	Generic methyltransferase	methyltransferase activity;methylation;transferase activity;integral component of membrane;membrane	
+5	202550983	202562068	Zm00001d017630	1	NO	CBL-interacting serine/threonine-protein kinase 5	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;transferase activity	
+5	206592153	206602443	Zm00001d017782	1	NO	SANT/MYB protein	nucleus;DNA binding	
+5	209321675	209331974	Zm00001d017873	1	NO	NA	NA	
+5	213916299	213928977	Zm00001d018082	1	NO	trpp7;trehalose-6-phosphate phosphatase7:	trehalose-phosphatase activity;trehalose biosynthetic process;dephosphorylation;hydrolase activity;catalytic activity	
+5	214122646	214134053	Zm00001d018097	1	NO	myb domain protein 93	DNA binding	
+5	214469686	214480630	Zm00001d018107	1	NO	Protein EXORDIUM	NA	
+5	215045035	215057015	Zm00001d018134	1	NO	Peptidyl-prolyl cis-trans isomerase FKBP12	isomerase activity;protein peptidyl-prolyl isomerization;peptidyl-prolyl cis-trans isomerase activity;cytosol	
+5	220295212	220308859	Zm00001d018416	2	NO	Transcription factor SPATULA	protein dimerization activity;integral component of membrane;membrane	
+5	221493364	221512258	Zm00001d018475	1	NO	CLIP-associated protein	NA	
+5	222352026	222364110	Zm00001d018517	1	NO	NAD(P)-binding Rossmann-fold superfamily protein	;isomerase activity	
+5	222512401	222525354	Zm00001d018528	1	NO	Pentatricopeptide repeat-containing protein	NA	
+5	222564518	222578939	Zm00001d018533	1	NO	RING/U-box superfamily protein	protein ubiquitination;ubiquitin-protein transferase activity;	
+5	223328291	223339508	Zm00001d018567	1	NO	Protein ELC-like	cellular protein modification process;protein transport;transport	
+6	781226	792774	Zm00001d034983	1	NO	Retrovirus-related Pol polyprotein from transposon TNT 1-94	NA	
+6	4339874	4351980	Zm00001d035084	1	NO	Putative NAC domain transcription factor superfamily protein	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;DNA binding"	
+6	25925825	25940845	Zm00001d035445	2	NO	gsh1;gamma-glutamylcysteine synthetase1:	cellular modified amino acid biosynthetic process;glutathione biosynthetic process;glutamate-cysteine ligase activity;cellular modified amino acid biosynthetic process;glutathione biosynthetic process;glutamate-cysteine ligase activity	
+6	31723237	31738132	Zm00001d035542	1	NO	GPRP	NA	
+6	33664439	33792325	Zm00001d035566	1	NO	NA	integral component of membrane;membrane	
+6	35143537	35156188	Zm00001d035588	1	NO	Serine/threonine-protein kinase	recognition of pollen;protein serine/threonine kinase activity;phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein kinase activity;nucleotide binding;transferase activity;integral component of membrane;membrane;recognition of pollen;protein serine/threonine kinase activity;phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein kinase activity;nucleotide binding;transferase activity;integral component of membrane;membrane	
+6	40980292	40994041	Zm00001d035682	1	NO	Alpha-humulene/(-)-(E)-beta-caryophyllene synthase	lyase activity;terpene synthase activity;magnesium ion binding;metabolic process;metal ion binding	
+6	61036623	61050042	Zm00001d035932	1	NO	NA	cell;oxidation-reduction process;cell redox homeostasis;glycerol ether metabolic process;protein disulfide oxidoreductase activity;ATP binding;integral component of membrane;membrane	
+6	72304352	72314693	Zm00001d036100	1	NO	NA	NA	
+6	73473014	73484134	Zm00001d036125	2	NO	early nodulin-related	;integral component of membrane;membrane	
+6	83166217	83192583	Zm00001d036301	1	NO	Pre-mRNA-processing-splicing factor 8A	"U6 snRNA binding;spliceosomal complex;mRNA splicing, via spliceosome;RNA binding;nucleic acid binding;U5 snRNA binding"	
+6	84731095	84747496	Zm00001d036334	1	NO	Prolyl oligopeptidase family protein	proteolysis;serine-type exopeptidase activity;serine-type endopeptidase activity;serine-type peptidase activity;peptidase activity	
+6	84768604	84779833	Zm00001d036339	1	NO	ipt10;isopentenyl transferase10: encodes an isopentenyl transferase	tRNA processing;transferase activity	
+6	84771706	84783799	Zm00001d036340	1	NO	"psb1;photosystem II1: (was hcf134) lacks PSII core complex; pale seedling; mutable (Mu-induced)Ortholog of Arabidopsis HCF136. Photosystem II assembly factor. (A. Barkan, 2015)"	NA	
+6	85767731	85778825	Zm00001d036363	1	NO	14-alpha-glucan-branching enzyme 2-2 chloroplastic/amyloplastic	carbohydrate metabolic process;catalytic activity	
+6	88262722	88277469	Zm00001d036432	1	NO	GCIP-interacting family protein	NA	
+6	88444234	88454572	Zm00001d036438	1	NO	NA	NA	
+6	105434613	105446453	Zm00001d036877	1	NO	Phosphatidylcholine:diacylglycerol cholinephosphotransferase 1	transferase activity;integral component of membrane;membrane	
+6	112911637	112930689	Zm00001d037115	2	NO	Choline/ethanolaminephosphotransferase 1	"phospholipid biosynthetic process;phosphotransferase activity, for other substituted phosphate groups;membrane;transferase activity;integral component of membrane"	
+6	119326327	119336593	Zm00001d037281	1	NO	NA	NA	
+6	124224448	124242937	Zm00001d037393	1	NO	NA	integral component of membrane;membrane;	
+6	133977114	133991795	Zm00001d037687	2	NO	der3;derlin3:	proteolysis;serine-type endopeptidase activity;integral component of membrane;endoplasmic reticulum membrane;endoplasmic reticulum;membrane	
+6	134672233	134683471	Zm00001d037711	1	NO	Leucine-rich repeat extensin-like protein 3	NA	
+6	135239800	135253890	Zm00001d037725	1	NO	Mitochondrial dicarboxylate/tricarboxylate transporter DTC	transport;transmembrane transport;integral component of membrane;membrane	
+6	138773343	138783855	Zm00001d037819	1	NO	NA	NA	
+6	140073685	140088862	Zm00001d037861	1	NO	hex8;hexokinase8:	"cellular glucose homeostasis;glucose binding;hexokinase activity;carbohydrate phosphorylation;phosphotransferase activity, alcohol group as acceptor;glycolytic process;carbohydrate metabolic process;phosphorylation;kinase activity;cell;ATP binding;nucleotide binding;transferase activity;cellular glucose homeostasis;glucose binding;hexokinase activity;carbohydrate phosphorylation;phosphotransferase activity, alcohol group as acceptor;glycolytic process;carbohydrate metabolic process;phosphorylation;kinase activity;cell;ATP binding;nucleotide binding;transferase activity;cellular glucose homeostasis;glucose binding;hexokinase activity;carbohydrate phosphorylation;phosphotransferase activity, alcohol group as acceptor;glycolytic process;carbohydrate metabolic process;phosphorylation;kinase activity;cell;ATP binding;nucleotide binding;transferase activity;cellular glucose homeostasis;glucose binding;hexokinase activity;carbohydrate phosphorylation;phosphotransferase activity, alcohol group as acceptor;glycolytic process;carbohydrate metabolic process;phosphorylation;kinase activity;cell;ATP binding;nucleotide binding;transferase activity;cellular glucose homeostasis;glucose binding;hexokinase activity;carbohydrate phosphorylation;phosphotransferase activity, alcohol group as acceptor;glycolytic process;carbohydrate metabolic process;phosphorylation;kinase activity;cell;ATP binding;nucleotide binding;transferase activity;cellular glucose homeostasis;glucose binding;hexokinase activity;carbohydrate phosphorylation;phosphotransferase activity, alcohol group as acceptor;glycolytic process;carbohydrate metabolic process;phosphorylation;kinase activity;cell;ATP binding;nucleotide binding;transferase activity;cellular glucose homeostasis;glucose binding;hexokinase activity;carbohydrate phosphorylation;phosphotransferase activity, alcohol group as acceptor;glycolytic process;carbohydrate metabolic process;phosphorylation;kinase activity;cell;ATP binding;nucleotide binding;transferase activity"	
+6	146900188	146916103	Zm00001d038071	1	NO	Protein N-terminal glutamine amidohydrolase	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides;hydrolase activity"	
+6	158820449	158834586	Zm00001d038506	1	NO	KH domain-containing protein	RNA binding;nucleic acid binding	
+6	159598966	159613236	Zm00001d038541	1	NO	sdg111;set domain gene111:	histone methylation;histone lysine methylation;histone binding;histone-lysine N-methyltransferase activity;methylation;transferase activity;methyltransferase activity;chromosome;zinc ion binding;nucleus	
+6	160522296	160532928	Zm00001d038584	1	NO	Putative AP2/EREBP transcription factor superfamily protein	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+6	162524258	162535154	Zm00001d038683	1	NO	Transcription factor TCP5	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;DNA binding"	
+6	163926390	163937118	Zm00001d038755	1	NO	Carnitine racemase/ catalytic	metabolic process;catalytic activity	
+6	164380494	164394823	Zm00001d038791	1	NO	Putative leucine-rich repeat receptor-like protein kinase family protein	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;transferase activity;integral component of membrane;membrane	
+6	164884311	164898253	Zm00001d038809	1	NO	Protein kinase superfamily protein	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding	
+6	165589007	165602229	Zm00001d038839	1	NO	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2	NA	
+6	166319613	166335458	Zm00001d038882	1	NO	Putative regulator of chromosome condensation (RCC1) family protein	metal ion binding	
+6	166804707	166818310	Zm00001d038909	1	NO	Putative RING zinc finger domain superfamily protein	NA	
+6	167319066	167331614	Zm00001d038937	1	NO	NA	regulation of cell cycle	
+6	169381353	169391880	Zm00001d039056	1	NO	NA	integral component of membrane;membrane	
+6	170784131	170794949	Zm00001d039135	1	NO	tdy1;tie-dyed1: Leaf blades develop variegated chlorotic and green regions; chlorotic regions hyperaccumulate carbohydrates.(Braun 2008)	integral component of membrane;membrane	
+6	171400188	171434963	Zm00001d039160	1	NO	TATA-binding protein-associated factor BTAF1	ATP binding;integral component of membrane;membrane;	
+6	171549081	171587712	Zm00001d039165	1	NO	DNA damage-binding protein 1a	;DNA repair;nucleic acid binding;nucleus	
+7	4190129	4202386	Zm00001d018751	1	NO	Amino acid permease 6	integral component of membrane;membrane	
+7	4241631	4255540	Zm00001d018752	1	NO	Leucine-rich repeat receptor-like serine/threonine-protein kinase BAM1	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+7	14388301	14400002	Zm00001d019059	1	NO	NA	NA	
+7	18145927	18159824	Zm00001d019125	1	NO	NEP-interacting protein 1	NA	
+7	22364543	22376794	Zm00001d019220	1	NO	Excinuclease ABC C subunit N-terminal	5'-flap endonuclease activity;DNA recombination;endonuclease activity;nuclease activity;cellular response to DNA damage stimulus;DNA repair;nucleic acid phosphodiester bond hydrolysis;hydrolase activity;nucleus;endodeoxyribonuclease activity;Slx1-Slx4 complex	
+7	32716365	32728419	Zm00001d019413	1	NO	L-type lectin-domain containing receptor kinase V.9	carbohydrate binding;phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;integral component of membrane;membrane	
+7	33139052	33149309	Zm00001d019427	1	NO	NA	NA	
+7	53173504	53184541	Zm00001d019712	1	NO	Sucrose responsive element binding protein	DNA binding	
+7	54530486	54541259	Zm00001d019734	1	NO	Ethylene-responsive transcription factor 1B	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+7	57677637	57687999	Zm00001d019762	1	NO	NA	NA	
+7	57812577	57825063	Zm00001d019763	1	NO	Protein UPSTREAM OF FLC	NA	
+7	70633168	70650421	Zm00001d019856	1	NO	ENTH/VHS family protein	;nucleic acid binding	
+7	70640589	70652916	Zm00001d019857	2	NO	NA	NA	
+7	83690073	83703127	Zm00001d019994	1	NO	Fasciclin-like arabinogalactan protein 2	NA	
+7	87648786	87660349	Zm00001d020037	1	NO	Zinc finger%2C C2H2 type family protein	nucleic acid binding	
+7	88704984	88717122	Zm00001d020052	1	NO	GDP-mannose transporter GONST4	nucleotide-sugar transport;Golgi apparatus;integral component of membrane;membrane;GDP-fucose transmembrane transporter activity;GDP-fucose transport	
+7	103972437	103987053	Zm00001d020280	2	NO	Major facilitator superfamily protein	transmembrane transport;integral component of membrane;membrane	
+7	107140738	107152834	Zm00001d020332	1	NO	Ubiquitin-protein ligase	ligase activity;protein ubiquitination;ubiquitin-protein transferase activity;transferase activity	
+7	107209969	107221447	Zm00001d020337	2	NO	UDP-glycosyltransferase 90A1	"transferase activity, transferring hexosyl groups;metabolic process;transferase activity, transferring glycosyl groups;transferase activity"	
+7	108172713	108183162	Zm00001d020346	1	NO	RING-H2 finger protein ATL1I	integral component of membrane;membrane	
+7	110240421	110254654	Zm00001d020381	1	NO	Annexin D5	calcium-dependent phospholipid binding;calcium ion binding;integral component of membrane;membrane	
+7	116161449	116172561	Zm00001d020460	2	NO	Zinc-finger homeodomain protein 8	DNA binding	
+7	125832492	125847596	Zm00001d020636	1	NO	Cysteine proteinase 2	cysteine-type peptidase activity;proteolysis;peptidase activity;hydrolase activity;;vacuole	
+7	131171724	131183960	Zm00001d020750	1	NO	Serine carboxypeptidase-like 40	serine-type carboxypeptidase activity;carboxypeptidase activity;proteolysis;peptidase activity;hydrolase activity	
+7	134911785	134922437	Zm00001d020861	1	NO	Protein binding protein	metal ion binding;integral component of membrane;membrane;zinc ion binding	
+7	134949297	134963341	Zm00001d020862	1	NO	Probable LRR receptor-like serine/threonine-protein kinase	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;transferase activity;integral component of membrane;membrane	
+7	135886863	135899153	Zm00001d020900	1	NO	Ribonuclease Z chloroplastic	";tRNA 3'-trailer cleavage, endonucleolytic;3'-tRNA processing endoribonuclease activity;tRNA 3'-end processing"	
+7	137372035	137383060	Zm00001d020944	1	NO	Leucine-rich repeat (LRR) family protein	NA	
+7	137467537	137484934	Zm00001d020946	1	NO	Protein EMSY-LIKE 4	defense response to fungus;	
+7	137481579	137492673	Zm00001d020948	1	NO	NA	NA	
+7	137477526	137490454	Zm00001d020947	1	NO	DNA-binding bromodomain-containing protein	DNA binding	
+7	137485433	137495741	Zm00001d020949	1	NO	NA	NA	
+7	137486639	137498598	Zm00001d020950	1	NO	NA	NA	
+7	137488946	137519552	Zm00001d020951	1	NO	AT-hook motif nuclear-localized protein 10	NA	
+7	137734132	137745896	Zm00001d020958	1	NO	Dihydroflavonol-4-reductase	coenzyme binding;catalytic activity	
+7	137984627	137997577	Zm00001d020961	1	NO	NAD(P)-binding Rossmann-fold superfamily protein	coenzyme binding;catalytic activity	
+7	138197794	138213053	Zm00001d020969	1	NO	protein; Ternary complex factor-like	NA	
+7	138203287	138215135	Zm00001d020970	1	NO	dfr1;dihydroflavonoid reductase1: male sterile; identification to potential function based on GenBank and TIGR annotations	pollen development;coenzyme binding;catalytic activity;sporopollenin biosynthetic process	
+7	138205336	138226164	Zm00001d020971	1	NO	Protein Iojap%2C chloroplast	chloroplast;plastid	
+7	138243896	138261381	Zm00001d020973	1	NO	Chaperone protein dnaJ 10	NA	
+7	138402898	138414603	Zm00001d020977	1	NO	NA	integral component of membrane;membrane	
+7	138405439	138460911	Zm00001d020978	1	NO	P-loop containing nucleoside triphosphate hydrolases superfamily protein	double-strand break repair;hydrolase activity;integral component of membrane;membrane	
+7	140466692	140482878	Zm00001d021014	1	NO	Type II inositol polyphosphate 5-phosphatase 15	phosphatidylinositol dephosphorylation;hydrolase activity	
+7	140474942	140502099	Zm00001d021015	1	NO	DNA topoisomerase 3-alpha	DNA topoisomerase type I activity;DNA topoisomerase activity;DNA topological change;isomerase activity;DNA binding;mRNA binding	
+7	144291960	144302214	Zm00001d021160	1	NO	NA	NA	
+7	146602570	146615451	Zm00001d021231	1	NO	RHOMBOID-like protein 3	proteolysis;peptidase activity;serine-type endopeptidase activity;integral component of membrane;hydrolase activity;membrane	
+7	146715766	146726224	Zm00001d021239	1	NO	NA	NA	
+7	146730831	146746337	Zm00001d021240	1	NO	Ypt/Rab-GAP domain of gyp1p superfamily protein	NA	
+7	147029121	147047045	Zm00001d021255	1	NO	NA	protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+7	160251705	160264195	Zm00001d021690	1	NO	Hydrolase%2C hydrolyzing O-glycosyl compounds	"carbohydrate metabolic process;hydrolase activity, hydrolyzing O-glycosyl compounds;hydrolase activity"	
+7	162492159	162503832	Zm00001d021760	1	NO	Pyrophosphate-energized vacuolar membrane proton pump 1	hydrogen-translocating pyrophosphatase activity;transmembrane transport;proton transport;inorganic diphosphatase activity;membrane;integral component of membrane	
+7	162522404	162534059	Zm00001d021761	1	NO	P-type R2R3 Myb protein	DNA binding	
+7	166073401	166086777	Zm00001d021931	1	NO	P-loop containing nucleoside triphosphate hydrolases superfamily protein	"DNA duplex unwinding;DNA helicase activity;helicase activity;ATP binding;nucleotide binding;hydrolase activity;nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;ATP-dependent 5'-3' DNA helicase activity"	
+7	173651309	173663781	Zm00001d022252	1	NO	Low temperature viability protein	NA	
+7	177929414	177940067	Zm00001d022448	1	NO	Transcription repressor OFP17	NA	
+7	179410995	179422774	Zm00001d022529	1	NO	alpha/beta-Hydrolases superfamily protein	hydrolase activity;integral component of membrane;membrane	
+7	179466476	179477840	Zm00001d022530	1	NO	ETHYLENE INSENSITIVE 3-like 2 protein	"regulation of transcription, DNA-templated;nucleus;transcription factor activity, sequence-specific DNA binding"	
+7	180309845	180327630	Zm00001d022581	1	NO	AMP deaminase	phosphatidylinositol phospholipase C activity;deaminase activity;intracellular signal transduction;lipid metabolic process;signal transduction;intracellular;AMP deaminase activity;purine ribonucleoside monophosphate biosynthetic process;IMP salvage;phosphatidylinositol phospholipase C activity;deaminase activity;intracellular signal transduction;lipid metabolic process;signal transduction;intracellular;AMP deaminase activity;purine ribonucleoside monophosphate biosynthetic process;IMP salvage;phosphatidylinositol phospholipase C activity;deaminase activity;intracellular signal transduction;lipid metabolic process;signal transduction;intracellular;AMP deaminase activity;purine ribonucleoside monophosphate biosynthetic process;IMP salvage;integral component of membrane;membrane;integral component of membrane;membrane;integral component of membrane;membrane	
+7	180733338	180744314	Zm00001d022595	1	NO	Yos1-like protein	NA	
+7	180735326	180747763	Zm00001d022596	1	NO	syringolide-induced protein 14-1-1	NA	
+7	180741665	180755319	Zm00001d022598	1	NO	Bzip-like transcription factor-like; Bzip-like transcription factor-like protein	NA	
+7	180819817	180839362	Zm00001d022599	1	NO	"ptac2;plastid transcriptionally active chromosome 2 homolog: Maize ortholog of Arabidopsis PTAC2. Chloroplast PPR-SMR protein. Associates with Plastid Encoded RNA polymerase (PEP). Required for PEP-mediated transcription. (A. Barkan, 2015)orthologous to At1g74850"	"transcription from plastid promoter;positive regulation of transcription, DNA-templated;nucleoid;chloroplast;plastid chromosome;"	
+8	2419564	2443283	Zm00001d008242	1	NO	Mitochondrial import receptor subunit TOM40-1	mitochondrial outer membrane;transmembrane transport	
+8	5205822	5222086	Zm00001d008323	1	NO	Zinc finger CCCH domain-containing protein 58	metal ion binding	
+8	5392381	5404132	Zm00001d008327	1	NO	H/ACA ribonucleoprotein complex subunit 4	RNA modification;pseudouridine synthesis;pseudouridine synthase activity;intracellular ribonucleoprotein complex;RNA processing;RNA binding;viral nucleocapsid	
+8	5852214	5865199	Zm00001d008342	1	NO	Pollen-specific protein like%3B Pollen-specific protein like protein	DNA replication;DNA repair;DNA recombination;nucleus;DNA binding;	
+8	5858420	5869319	Zm00001d008343	1	NO	NA	NA	
+8	6900429	6916861	Zm00001d008386	1	NO	Monocopper oxidase-like protein SKU5	integral component of membrane;membrane;	
+8	7155718	7166967	Zm00001d008392	1	NO	Chaperone protein dnaJ 20	NA	
+8	8307884	8322910	Zm00001d008422	2	NO	Protein EXECUTER 2 chloroplastic	NA	
+8	19071001	19082332	Zm00001d008756	1	NO	HXXXD-type acyl-transferase family protein	"transferase activity, transferring acyl groups other than amino-acyl groups;transferase activity"	
+8	19068112	19078381	Zm00001d008755	1	NO	NA	NA	
+8	19076873	19089941	Zm00001d008757	1	NO	Proteasome component (PCI) domain protein	proteasome complex;eukaryotic 48S preinitiation complex;eukaryotic 43S preinitiation complex;eukaryotic translation initiation factor 3 complex;cytoplasm;regulation of translational initiation;translational initiation;translation;formation of translation preinitiation complex;translation initiation factor activity	
+8	26433987	26447200	Zm00001d008944	1	NO	NA	NA	
+8	67641642	67653721	Zm00001d009502	2	NO	NA	NA	
+8	103451053	103465657	Zm00001d010190	1	NO	got5;glutamate-oxaloacetate transaminase5: putative aspartate transaminase; plastidial (Huang et al 2013);	biosynthetic process;pyridoxal phosphate binding;catalytic activity;transaminase activity;transferase activity	
+8	103512662	103524284	Zm00001d010197	1	NO	Amidophosphoribosyltransferase	"purine nucleobase biosynthetic process;nucleoside metabolic process;iron-sulfur cluster binding;transferase activity, transferring glycosyl groups;transferase activity;metal ion binding;purine nucleotide biosynthetic process;amidophosphoribosyltransferase activity;'de novo' IMP biosynthetic process;purine nucleobase biosynthetic process;nucleoside metabolic process;iron-sulfur cluster binding;transferase activity, transferring glycosyl groups;transferase activity;metal ion binding;purine nucleotide biosynthetic process;amidophosphoribosyltransferase activity;'de novo' IMP biosynthetic process"	
+8	104776411	104788647	Zm00001d010228	1	NO	Putative ENTH/ANTH/VHS superfamily protein	clathrin-coated vesicle;clathrin coat assembly;1-phosphatidylinositol binding;phospholipid binding;clathrin binding	
+8	104771612	104786353	Zm00001d010227	1	NO	Putative NAC domain transcription factor superfamily protein isoform 1%3B Putative NAC domain transcription factor superfamily protein isoform 2	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;DNA binding"	
+8	111697614	111713099	Zm00001d010373	1	NO	Stem glycoprotein	acid phosphatase activity;dephosphorylation	
+8	112877140	112889372	Zm00001d010399	1	NO	Putative WRKY DNA-binding domain superfamily protein isoform 1%3B Putative WRKY DNA-binding domain superfamily protein isoform 2	"sequence-specific DNA binding;regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+8	114562038	114579956	Zm00001d010428	1	NO	NA	NA	
+8	116480946	116495538	Zm00001d010463	1	NO	Phospholipase A1-Igamma1 chloroplastic	lipid metabolic process;hydrolase activity	
+8	117141840	117168644	Zm00001d010476	1	NO	NA	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding	
+8	119986826	119998034	Zm00001d010543	1	NO	Probable membrane-associated kinase regulator 4	phosphorylation;kinase activity	
+8	119992606	120005463	Zm00001d010544	1	NO	late embryogenesis abundant protein	integral component of membrane;membrane	
+8	121234784	121245132	Zm00001d010593	1	NO	NA	defense response	
+8	121527075	121539063	Zm00001d010602	1	NO	Protein binding protein	exocyst;exocytosis	
+8	122033132	122044596	Zm00001d010617	1	NO	Putative WRKY DNA-binding domain superfamily protein	"sequence-specific DNA binding;regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+8	122243972	122254652	Zm00001d010627	1	NO	Protein LURP-one-related 8	NA	
+8	122273283	122286316	Zm00001d010629	1	NO	Cation/H(+) antiporter 15	hydrogen ion transmembrane transport;solute:proton antiporter activity;transmembrane transport;cation transport;integral component of membrane;membrane	
+8	123105987	123119748	Zm00001d010657	1	NO	NAD(P)-binding Rossmann-fold superfamily protein	coenzyme binding;integral component of membrane;membrane;catalytic activity	
+8	123636909	123648672	Zm00001d010667	1	NO	Basic leucine zipper 24	"regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding"	
+8	124159948	124171575	Zm00001d010682	1	NO	NA	NA	
+8	124493926	124505368	Zm00001d010689	1	NO	Cytokinin-O-glucosyltransferase 1	"transferase activity, transferring hexosyl groups;metabolic process;transferase activity, transferring glycosyl groups;transferase activity"	
+8	124543140	124554582	Zm00001d010690	1	NO	Anthocyanidin 3-O-glucosyltransferase	"transferase activity, transferring hexosyl groups;metabolic process;transferase activity"	
+8	124733149	124745137	Zm00001d010693	1	NO	21.7 kDa class VI heat shock protein	NA	
+8	124861876	124874473	Zm00001d010697	2	NO	Indole-3-acetic acid-amido synthetase GH3.6	NA	
+8	124956672	124975124	Zm00001d010700	1	NO	G-type lectin S-receptor-like serine/threonine-protein kinase B120	carbohydrate binding;recognition of pollen;phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane;carbohydrate binding;recognition of pollen;phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane;protein serine/threonine kinase activity;nucleotide binding;transferase activity;protein serine/threonine kinase activity;nucleotide binding;transferase activity	
+8	124969034	124981815	Zm00001d010702	1	NO	NA	integral component of membrane;membrane	
+8	125092970	125110036	Zm00001d010703	2	NO	Secretory carrier-associated membrane protein 3	transport vesicle membrane;cytoplasmic vesicle;protein transport;transport;integral component of membrane;plasma membrane;membrane	
+8	125519850	125543429	Zm00001d010716	1	NO	TRAF-like superfamily protein	;integral component of membrane;membrane	
+8	125535238	125547393	Zm00001d010717	1	NO	NA	integral component of membrane;membrane	
+8	125538913	125550289	Zm00001d010718	1	NO	Calreticulin-3	unfolded protein binding;protein folding;endoplasmic reticulum;calcium ion binding	
+8	127847075	127865775	Zm00001d010790	2	NO	krp3;kinesin-related protein3:	microtubule-based movement;microtubule binding;microtubule motor activity;motor activity;ATP binding;nucleotide binding;	
+8	128027677	128040296	Zm00001d010795	1	NO	IQ-domain 25	NA	
+8	128191797	128215614	Zm00001d010799	1	NO	NA	NA	
+8	128207334	128220465	Zm00001d010800	1	NO	Zinc finger CCCH domain-containing protein 54	metal ion binding;integral component of membrane;membrane	
+8	128595595	128628332	Zm00001d010811	1	NO	SNF1-related protein kinase catalytic subunit alpha KIN10	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;transferase activity;phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;transferase activity;negative regulation of apoptotic process;negative regulation of apoptotic process;phosphorylation;kinase activity	
+8	128619529	128631084	Zm00001d010813	1	NO	receptor like protein 29	NA	
+8	131608133	131619413	Zm00001d010871	1	NO	Thioredoxin F2 chloroplastic	cell;oxidation-reduction process;cell redox homeostasis;glycerol ether metabolic process;protein disulfide oxidoreductase activity	
+8	131814719	131831254	Zm00001d010877	1	NO	BRCT domain-containing DNA repair protein	NA	
+8	132704224	132714421	Zm00001d010903	1	NO	NA	NA	
+8	136170479	136186191	Zm00001d010995	3	NO	Thylakoid membrane protein TERC chloroplastic	integral component of membrane;membrane	
+8	136176225	136190544	Zm00001d010997	2	NO	protein; Unknow protein	Ino80 complex	
+8	136297778	136311209	Zm00001d010998	1	NO	Putative homeobox DNA-binding domain superfamily protein	nucleus;DNA binding	
+8	136378321	136390182	Zm00001d011003	2	NO	NA	NA	
+8	136504479	136516617	Zm00001d011006	1	NO	ABC transporter G family member 6	ATPase activity;ATP binding;nucleotide binding;membrane;integral component of membrane	
+8	137409912	137423125	Zm00001d011051	1	NO	ACT domain-containing protein ACR9	NA	
+8	142158536	142173999	Zm00001d011180	1	NO	NA	NA	
+8	142587861	142603233	Zm00001d011192	1	NO	Carbamoyl-phosphate synthase large chain chloroplastic	nitrogen compound metabolic process;ATP binding;nucleotide binding;metal ion binding;nitrogen compound metabolic process;ATP binding;nucleotide binding;metal ion binding;catalytic activity;catalytic activity	
+8	142597686	142612439	Zm00001d011193	1	NO	integral membrane protein	integral component of membrane;membrane	
+8	143863837	143876501	Zm00001d011228	1	NO	Putative calmodulin-binding family protein	NA	
+8	148476033	148489238	Zm00001d011362	1	NO	PsbP domain-containing protein 5 chloroplastic	integral component of membrane;membrane;extrinsic component of membrane;photosystem II oxygen evolving complex;photosystem II;photosynthesis;calcium ion binding	
+8	148907004	148922649	Zm00001d011373	1	NO	Extra-large G-protein-like;  protein	;integral component of membrane;membrane	
+8	150153919	150171669	Zm00001d011424	1	NO	SCP1-like small phosphatase 4b	;dephosphorylation;phosphatase activity	
+8	150477983	150489456	Zm00001d011438	2	NO	Dihydroflavonol-4-reductase	coenzyme binding;catalytic activity	
+8	156435018	156449291	Zm00001d011623	1	NO	Retrovirus-related Pol polyprotein LINE-1	NA	
+8	156980645	156992441	Zm00001d011637	1	NO	hydroxyproline-rich glycoprotein family protein	NA	
+8	157369297	157383344	Zm00001d011643	1	NO	Putative leucine-rich repeat receptor-like protein kinase family protein	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;transferase activity;integral component of membrane;membrane	
+8	157380847	157396117	Zm00001d011644	1	NO	ABC transporter B family member 9	"ATPase activity, coupled to transmembrane movement of substances;ATPase activity;transport;transmembrane transport;ATP binding;nucleotide binding;integral component of membrane;membrane"	
+8	159830548	159845848	Zm00001d011720	1	NO	vde3;violaxanthin de-epoxidase3: sequence ortholog of Arabidopsis AT1G08550 (AVDE1)	NA	
+8	160440596	160464263	Zm00001d011742	1	NO	SUPPRESSOR OF ABI3-5	RNA binding;metal ion binding;nucleic acid binding;	
+8	160813522	160830421	Zm00001d011756	1	NO	Protein VTE6 chloroplastic	integral component of membrane;membrane;chloroplast;plastid;chloroplast inner membrane;chloroplast envelope	
+8	160880990	160895793	Zm00001d011758	1	NO	NA	NA	
+8	162910395	162930930	Zm00001d011854	1	NO	Villin-2	actin filament bundle assembly;actin filament binding;cytoskeleton organization;actin binding;	
+8	164357879	164373379	Zm00001d011913	1	NO	Potassium transporter 3	potassium ion transmembrane transport;potassium ion transmembrane transporter activity;membrane;integral component of membrane;potassium ion transport;ion transport	
+8	164426996	164437511	Zm00001d011915	1	NO	Nuclear transcription factor Y subunit B-4	protein heterodimerization activity;nucleus	
+8	165135334	165160029	Zm00001d011956	1	NO	sdg118;set domain gene118:	histone methylation;histone lysine methylation;histone binding;histone-lysine N-methyltransferase activity;methylation;transferase activity;methyltransferase activity;chromosome;zinc ion binding;nucleus;histone binding;methylation;transferase activity;methyltransferase activity;nucleus	
+8	166413982	166428965	Zm00001d012007	1	NO	CBS domain-containing protein CBSCBSPB1	integral component of membrane;membrane;	
+8	166411374	166422639	Zm00001d012006	1	NO	NA	;integral component of membrane;membrane	
+8	166706119	166717722	Zm00001d012022	1	NO	Nucleotide-diphospho-sugar transferase family protein	transferase activity	
+8	166740975	166760465	Zm00001d012027	1	NO	Dynamin-related protein 3A	GTP binding;GTPase activity;nucleotide binding	
+8	167561134	167574229	Zm00001d012067	1	NO	Transcription factor bHLH62	integral component of membrane;membrane;protein dimerization activity	
+8	167971609	167985265	Zm00001d012087	1	NO	Sas10/Utp3/C1D family	NA	
+8	168989371	169000732	Zm00001d012152	1	NO	Galactolipase DONGLE chloroplastic	lipid metabolic process;hydrolase activity	
+8	169036107	169054261	Zm00001d012155	1	NO	ARM repeat superfamily protein	;plasma membrane	
+8	169568763	169582154	Zm00001d012177	1	NO	Serine/threonine-protein kinase	recognition of pollen;protein serine/threonine kinase activity;phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein kinase activity;nucleotide binding;transferase activity;integral component of membrane;membrane;recognition of pollen;protein serine/threonine kinase activity;phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein kinase activity;nucleotide binding;transferase activity;integral component of membrane;membrane	
+8	170772809	170786884	Zm00001d012240	1	NO	SUN4	integral component of membrane;membrane;	
+8	171223378	171236523	Zm00001d012258	1	NO	Expressed protein;  protein	integral component of membrane;membrane;	
+8	174621161	174639719	Zm00001d012445	1	NO	Nuclear transcription factor Y subunit B-8	protein heterodimerization activity;nucleus	
+8	176063190	176100819	Zm00001d012525	1	NO	Protein MOR1	NA	
+8	179045887	179057423	Zm00001d012709	1	NO	Interactor of constitutive active ROPs 1	NA	
+8	179115409	179129173	Zm00001d012718	1	NO	NA	NA	
+9	2204294	2218288	Zm00001d044780	1	NO	DNA polymerase lambda (POLL)	"DNA biosynthetic process;DNA-directed DNA polymerase activity;DNA repair;nucleotidyltransferase activity;nucleus;DNA binding;DNA polymerase activity;DNA biosynthetic process;DNA-directed DNA polymerase activity;DNA repair;nucleotidyltransferase activity;nucleus;DNA binding;DNA polymerase activity;nucleotide-excision repair;double-strand break repair;double-strand break repair via nonhomologous end joining;response to UV-B;manganese ion binding;5'-deoxyribose-5-phosphate lyase activity;base-excision repair, AP site formation via deaminated base removal;nucleotide-excision repair;double-strand break repair;double-strand break repair via nonhomologous end joining;response to UV-B;manganese ion binding;5'-deoxyribose-5-phosphate lyase activity;base-excision repair, AP site formation via deaminated base removal;"	
+9	2209013	2221380	Zm00001d044781	1	NO	Putative thiol-disulphide oxidoreductase DCC	NA	
+9	4684770	4696044	Zm00001d044839	1	NO	Transcription factor PRE3	protein dimerization activity;response to brassinosteroid;nucleus;cytoplasm	
+9	7248981	7259973	Zm00001d044921	1	NO	Probable carboxylesterase 2	hydrolase activity;metabolic process	
+9	21918413	21932989	Zm00001d045431	1	NO	Enolase 1	phosphopyruvate hydratase complex;phosphopyruvate hydratase activity;glycolytic process;magnesium ion binding;metal ion binding;phosphopyruvate hydratase complex;phosphopyruvate hydratase activity;glycolytic process;magnesium ion binding;metal ion binding;lyase activity;cytoplasm;lyase activity;cytoplasm	
+9	25260649	25272237	Zm00001d045520	1	NO	Succinate dehydrogenase subunit 8A mitochondrila	integral component of membrane;membrane	
+9	26817040	26830680	Zm00001d045563	1	NO	"d3;dwarf plant3: like d1, plant short and compact; ""d2"" mutation(s) are allelic (d2 is lapsed)"	"monooxygenase activity;oxidation-reduction process;oxidoreductase activity;heme binding;oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen;iron ion binding;metal ion binding;integral component of membrane;membrane;gibberellin biosynthetic process;ent-kaurenoate oxidase activity;pollen germination;pollen tube growth"	
+9	27001615	27012079	Zm00001d045568	2	NO	brassinosteroid-responsive RING-H2	NA	
+9	34491670	34514714	Zm00001d045706	1	NO	Restorer of fertility2	oxidoreductase activity;metabolic process;oxidation-reduction process;aldehyde dehydrogenase (NAD) activity	
+9	34592188	34603313	Zm00001d045708	1	NO	Senescence-specific cysteine protease SAG12	cysteine-type peptidase activity;proteolysis;peptidase activity;hydrolase activity	
+9	35177183	35189071	Zm00001d045724	1	NO	Heat shock factor binding protein 2%3B Heat shock factor binding protein 2Heat shock factor-binding protein 1%3B Heat shock factor-binding protein 1	negative regulation of nucleic acid-templated transcription;transcription corepressor activity;response to heat;seed development;cellular heat acclimation;nucleus;Golgi apparatus;cytosol	
+9	39853290	39867142	Zm00001d045798	1	NO	NA	integral component of membrane;membrane	
+9	40097185	40113023	Zm00001d045804	1	NO	Zinc finger protein CONSTANS-LIKE 9	intracellular;zinc ion binding;nucleus	
+9	46149237	46164068	Zm00001d045894	1	NO	CDK5RAP3-like protein	NA	
+9	46146115	46160225	Zm00001d045893	1	NO	Retrovirus-related Pol polyprotein LINE-1	NA	
+9	70320553	70332150	Zm00001d046186	1	NO	Peroxidase 52	hydrogen peroxide catabolic process;response to oxidative stress;heme binding;cellular oxidant detoxification;peroxidase activity;extracellular region;oxidation-reduction process;oxidoreductase activity;metal ion binding	
+9	80221391	80232971	Zm00001d046319	1	NO	Putative FAD-binding Berberine family protein	"flavin adenine dinucleotide binding;oxidoreductase activity, acting on CH-OH group of donors;oxidoreductase activity;oxidation-reduction process;catalytic activity"	
+9	82249067	82261584	Zm00001d046346	1	NO	Putative HLH DNA-binding domain superfamily protein	DNA binding;protein dimerization activity	
+9	84914474	84927831	Zm00001d046372	1	NO	Polyprotein	NA	
+9	90716227	90728093	Zm00001d046455	1	NO	HXXXD-type acyl-transferase family protein	"transferase activity, transferring acyl groups other than amino-acyl groups;transferase activity"	
+9	99404598	99421154	Zm00001d046624	1	NO	Probable E3 ubiquitin ligase SUD1	ligase activity;integral component of membrane;membrane;metal ion binding;zinc ion binding	
+9	100183815	100196441	Zm00001d046644	1	NO	Ubiquitin-specific protease family C19-related protein	proteolysis;peptidase activity;integral component of membrane;membrane	
+9	102501577	102523770	Zm00001d046691	1	NO	Cellulose synthase A catalytic subunit 5 [UDP-forming]	"plasma membrane;membrane;cell wall organization;cellulose biosynthetic process;cellulose synthase (UDP-forming) activity;transferase activity, transferring glycosyl groups;transferase activity;metal ion binding;integral component of membrane;membrane;cell wall organization;cellulose biosynthetic process;cellulose synthase (UDP-forming) activity;transferase activity, transferring glycosyl groups;transferase activity;integral component of membrane"	
+9	118156559	118168554	Zm00001d047090	2	NO	Expansin-B4	sexual reproduction;extracellular region	
+9	120515071	120530521	Zm00001d047166	1	NO	Cystathionine gamma-synthase 1 chloroplastic	pyridoxal phosphate binding;catalytic activity;integral component of membrane;membrane	
+9	121525758	121537387	Zm00001d047192	1	NO	5-pentadecatrienyl resorcinol O-methyltransferase	O-methyltransferase activity;methyltransferase activity;methylation;transferase activity;protein dimerization activity	
+9	122934298	122945717	Zm00001d047226	1	NO	Polynucleotide adenylyltransferase family protein	nucleotidyltransferase activity;transferase activity	
+9	124762027	124776523	Zm00001d047262	1	NO	Putative ribosomal protein S8 family protein	intracellular ribonucleoprotein complex;ribosome;translation;structural constituent of ribosome	
+9	124774249	124785379	Zm00001d047263	2	NO	NA	NA	
+9	125123067	125135175	Zm00001d047274	2	NO	Expressed protein;  protein	integral component of membrane;membrane	
+9	125237433	125250017	Zm00001d047275	1	NO	PLC-like phosphodiesterases superfamily protein	lipid metabolic process;phosphoric diester hydrolase activity	
+9	126393219	126418090	Zm00001d047317	2	NO	Long chain base biosynthesis protein 2a	biosynthetic process;pyridoxal phosphate binding;catalytic activity	
+9	126557638	126568302	Zm00001d047320	1	NO	NA	NA	
+9	126812841	126823518	Zm00001d047334	1	NO	Zinc finger protein AZF2	nucleic acid binding	
+9	126817784	126832738	Zm00001d047335	1	NO	Probable esterase KAI2	strigolactone biosynthetic process;secondary shoot formation	
+9	128741690	128756615	Zm00001d047399	1	NO	PLASMODESMATA CALLOSE-BINDING PROTEIN 5	"carbohydrate metabolic process;hydrolase activity, hydrolyzing O-glycosyl compounds;hydrolase activity"	
+9	129463564	129473836	Zm00001d047414	1	NO	NA	NA	
+9	129897112	129917207	Zm00001d047435	1	NO	Stomatal closure-related actin-binding protein 1	actin binding;	
+9	129908623	129920474	Zm00001d047436	1	NO	AAA-ATPase ASD mitochondrial	ATP binding;nucleotide binding;integral component of membrane;membrane	
+9	130085890	130099088	Zm00001d047438	1	NO	P-loop containing nucleoside triphosphate hydrolases superfamily protein	transferase activity;hydrolase activity;integral component of membrane;membrane;sulfotransferase activity	
+9	130091452	130114869	Zm00001d047439	1	NO	Probable protein S-acyltransferase 17	"protein-cysteine S-palmitoyltransferase activity;transferase activity, transferring acyl groups;transferase activity;integral component of membrane;membrane;integral component of membrane;membrane"	
+9	130958498	130969349	Zm00001d047465	1	NO	NA	NA	
+9	130961631	130974941	Zm00001d047466	1	NO	R3H domain protein	nucleic acid binding;	
+9	134436983	134475690	Zm00001d047540	1	NO	Guanine nucleotide exchange factor SPIKE 1	positive regulation of GTPase activity;small GTPase mediated signal transduction;intracellular;guanyl-nucleotide exchange factor activity;integral component of membrane;membrane	
+9	135608729	135620657	Zm00001d047563	1	NO	eil1;ethylene insensitive-like1:	"regulation of transcription, DNA-templated;nucleus;transcription factor activity, sequence-specific DNA binding"	
+9	135974484	135985791	Zm00001d047573	1	NO	F-box protein	NA	
+9	136353669	136376826	Zm00001d047583	1	NO	ABC transporter I family member 20	ATPase activity;ATP binding;nucleotide binding;;response to karrikin	
+9	137224665	137236701	Zm00001d047620	1	NO	GDSL-like Lipase/Acylhydrolase superfamily protein	"hydrolase activity, acting on ester bonds;hydrolase activity"	
+9	138401738	138414643	Zm00001d047661	1	NO	Tetratricopeptide repeat (TPR)-like superfamily protein	NA	
+9	140902239	140914664	Zm00001d047753	1	NO	Probable RNA-binding protein ARP1	RNA binding;nucleic acid binding	
+9	140905564	140921186	Zm00001d047754	1	NO	Probable sugar phosphate/phosphate translocator	integral component of membrane;membrane	
+9	141289111	141301894	Zm00001d047764	1	NO	Expressed protein;  protein	NA	
+9	141476416	141493213	Zm00001d047776	1	NO	Phosphatidylinositol N-acetyglucosaminlytransferase subunit P-related	transferase activity	
+9	143019246	143029842	Zm00001d047841	2	NO	17.4 kDa class I heat shock protein	NA	
+9	146636666	146647304	Zm00001d047968	1	NO	Zinc finger protein 1	nucleic acid binding	
+9	147693120	147707310	Zm00001d048004	1	NO	AP2-like ethylene-responsive transcription factor ANT	"multicellular organism development;nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+9	150968293	150985138	Zm00001d048150	1	NO	Adenylyl-sulfate kinase	phosphorylation;kinase activity;sulfate assimilation;adenylylsulfate kinase activity;phosphorylation;kinase activity;ATP binding;nucleotide binding;transferase activity;hydrogen sulfide biosynthetic process;sulfate assimilation;adenylylsulfate kinase activity;phosphorylation;kinase activity;ATP binding;nucleotide binding;transferase activity;hydrogen sulfide biosynthetic process;sulfate adenylyltransferase (ATP) activity;sulfur amino acid metabolic process;sulfate adenylyltransferase (ATP) activity;sulfur amino acid metabolic process	
+9	150978409	150991660	Zm00001d048151	1	NO	Glycosyl hydrolase family 10 protein	"carbohydrate metabolic process;hydrolase activity, hydrolyzing O-glycosyl compounds;hydrolase activity;hydrolase activity, acting on glycosyl bonds"	
+9	152160378	152171028	Zm00001d048192	1	NO	AIR12	NA	
+9	152162685	152175674	Zm00001d048193	1	NO	Mitochondrial import inner membrane translocase subunit TIM22-2	integral component of membrane;membrane;	
+9	154808756	154823120	Zm00001d048345	1	NO	Probable serine/threonine-protein kinase	peptidyl-tyrosine phosphorylation;protein tyrosine kinase activity;phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding	
+9	156820990	156836559	Zm00001d048466	1	NO	Det1 complexing ubiquitin ligase	ligase activity;regulation of proteasomal ubiquitin-dependent protein catabolic process	
+9	156826903	156841049	Zm00001d048467	1	NO	Probable serine/threonine-protein kinase	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+9	156981135	156992627	Zm00001d048477	1	NO	Putative DEAD-box ATP-dependent RNA helicase family protein	helicase activity	
+9	156979273	156990316	Zm00001d048476	1	NO	Acyltransferase	"O-acyltransferase activity;transferase activity, transferring acyl groups;transferase activity;integral component of membrane;membrane"	
+9	156985040	156996863	Zm00001d048478	1	NO	Putative HLH DNA-binding domain superfamily protein	DNA binding;protein dimerization activity	
+9	157229264	157242375	Zm00001d048496	1	NO	Per1-like family protein	;integral component of membrane;membrane	
+9	157232558	157246000	Zm00001d048497	1	NO	NA	protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;cell division	
+10	6422340	6437014	Zm00001d023465	1	NO	Transcription factor E2FB	"transcription factor complex;nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding;protein dimerization activity"	
+10	6626686	6637327	Zm00001d023468	1	NO	NDR1/HIN1-like 1	integral component of membrane;membrane	
+10	8648575	8664968	Zm00001d023521	1	NO	Putative serine esterase  family protein	NA	
+10	8656499	8667677	Zm00001d023522	1	NO	from the Czech 'roh' meaning 'corner'	NA	
+10	9496110	9508125	Zm00001d023541	1	NO	Putative GATA transcription factor family protein	"zinc ion binding;sequence-specific DNA binding;regulation of transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding"	
+10	9503219	9515847	Zm00001d023542	1	NO	V-type proton ATPase subunit c4	"vacuolar membrane;vacuole;ATP hydrolysis coupled proton transport;proton-transporting V-type ATPase, V0 domain;proton transport;proton-transporting two-sector ATPase complex, proton-transporting domain;hydrogen ion transmembrane transporter activity;ion transport;transport;integral component of membrane;membrane"	
+10	13495284	13509618	Zm00001d023646	1	NO	Pumilio homolog 12	RNA binding	
+10	20289622	20310450	Zm00001d023788	1	NO	Lysine-specific demethylase REF6	"methylation;methyltransferase activity;metal ion binding;nucleic acid binding;nucleus;histone demethylase activity;negative regulation of gene expression, epigenetic;negative regulation of long-day photoperiodism, flowering"	
+10	25240123	25253808	Zm00001d023858	1	NO	Leucine-rich repeat (LRR) family protein	NA	
+10	26979101	27001894	Zm00001d023897	1	NO	VIN3-like protein 1	NA	
+10	28078135	28089982	Zm00001d023915	1	NO	Pentatricopeptide repeat-containing protein  mitochondrial	mitochondrion	
+10	29354954	29365247	Zm00001d023931	2	NO	Putative MYB DNA-binding domain superfamily protein%3B Secondary wall MYB46 transcription factor	DNA binding	
+10	35169831	35184918	Zm00001d023994	1	NO	Beta-glucosidase%2C chloroplastic	"carbohydrate metabolic process;hydrolase activity, hydrolyzing O-glycosyl compounds;integral component of membrane;membrane;plastid;chloroplast;metabolic process;hydrolase activity, acting on glycosyl bonds;hydrolase activity;beta-glucosidase activity;scopolin beta-glucosidase activity;mannosidase activity;galactosidase activity;fucosidase activity;cellulose 1,4-beta-cellobiosidase activity;xylanase activity;cytokinin-activated signaling pathway;"	
+10	69478649	69489945	Zm00001d024410	1	NO	Putative homeobox DNA-binding domain superfamily protein	nucleus;DNA binding	
+10	70394874	70417898	Zm00001d024423	1	NO	"pol1;DNA polymerase like1: W2 also contributes to mitochondrial DNA replication, and that another DNA polymerase (likely the paralog GRMZM2G023422) makes an equal contribution."	DNA biosynthetic process;DNA-directed DNA polymerase activity;3'-5' exonuclease activity;nucleic acid phosphodiester bond hydrolysis;DNA replication;nucleobase-containing compound metabolic process;nucleic acid binding;DNA binding;DNA-dependent DNA replication;DNA biosynthetic process;DNA-directed DNA polymerase activity;3'-5' exonuclease activity;nucleic acid phosphodiester bond hydrolysis;DNA replication;nucleobase-containing compound metabolic process;nucleic acid binding;DNA binding;DNA-dependent DNA replication	
+10	88552906	88566147	Zm00001d024795	1	NO	Putative leucine-rich repeat receptor-like protein kinase family protein	phosphorylation;kinase activity;protein phosphorylation;ATP binding;protein serine/threonine kinase activity;protein kinase activity;nucleotide binding;transferase activity;integral component of membrane;membrane	
+10	89270166	89281263	Zm00001d024814	1	NO	Putative MYB DNA-binding domain superfamily protein	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;DNA binding"	
+10	89560254	89575746	Zm00001d024819	1	NO	DNA repair helicase UVH6	"ATP-dependent DNA helicase activity;DNA duplex unwinding;hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides;helicase activity;ATP binding;DNA binding;ATP-dependent helicase activity;nucleobase-containing compound metabolic process;nucleotide-excision repair;nucleotide binding;hydrolase activity;nucleic acid binding;nucleus;DNA repair;response to heat;response to UV"	
+10	92325298	92337490	Zm00001d024885	2	NO	Putative WD40-like beta propeller repeat family protein	NA	
+10	93866035	93876523	Zm00001d024902	1	NO	Expressed protein;  protein	NA	
+10	93903317	93916235	Zm00001d024903	1	NO	"hsp90;heat shock protein, 90 kDa: heat-induced; encoded protein interacts with HSP101"	response to stress;unfolded protein binding;protein folding;cytoplasm;ATP binding;nucleotide binding	
+10	94174848	94187817	Zm00001d024904	1	NO	OSJNBb0004G23.12 protein; OSJNBb0085F13.7 protein	NA	
+10	94425850	94438495	Zm00001d024909	2	NO	"cct1;CO CO-LIKE TIMING OF CAB1 protein domain1: photoperiod response locus; confers later flowering in teosintes under longer day lengths; many maize inbred lines, including some adapted to tropical regions, have cct1 alleles insensitive to photoperiod (Hung et al 2012)"	"nucleus;negative regulation of long-day photoperiodism, flowering"	
+10	94795906	94808266	Zm00001d024915	1	NO	mab29;math-btb29:	NA	
+10	95173214	95183898	Zm00001d024922	1	NO	TPX2 (targeting protein for Xklp2) protein family	NA	
+10	95194922	95208758	Zm00001d024924	1	NO	NA	ADP binding	
+10	96010969	96024757	Zm00001d024941	1	NO	ELMO domain-containing protein 2%2C mRNA	NA	
+10	98763633	98777678	Zm00001d025002	1	NO	Putative leucine-rich repeat receptor protein kinase family protein	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+10	99212386	99224471	Zm00001d025005	1	NO	yuc2;Yucca2:	"N,N-dimethylaniline monooxygenase activity;NADP binding;monooxygenase activity;flavin adenine dinucleotide binding;oxidation-reduction process;oxidoreductase activity"	
+10	99630843	99643554	Zm00001d025011	1	NO	Polyketide cyclase/dehydrase and lipid transport superfamily protein	lipid binding;integral component of membrane;membrane	
+10	99637235	99665548	Zm00001d025012	1	NO	ABC transporter G family member 34	ATPase activity;transport;ATP binding;nucleotide binding;membrane;integral component of membrane	
+10	99987757	100003509	Zm00001d025020	1	NO	HR-like lesion-inducing protein-related	integral component of membrane;membrane;	
+10	101880723	101895901	Zm00001d025055	1	NO	prh11;protein phosphatase homolog11:	protein dephosphorylation;cation binding;hydrolase activity;protein serine/threonine phosphatase activity;phosphoprotein phosphatase activity;metal ion binding;catalytic activity;protein dephosphorylation;cation binding;hydrolase activity;protein serine/threonine phosphatase activity;phosphoprotein phosphatase activity;metal ion binding;catalytic activity	
+10	108511688	108529894	Zm00001d025195	1	NO	Serine carboxypeptidase-like 20	serine-type carboxypeptidase activity;carboxypeptidase activity;proteolysis;peptidase activity;hydrolase activity	
+10	110567318	110579522	Zm00001d025238	1	NO	DNAJ heat shock N-terminal domain-containing protein	NA	
+10	110574973	110593202	Zm00001d025239	1	NO	Sm-like protein LSM6A	"mRNA splicing, via spliceosome;intracellular ribonucleoprotein complex;RNA binding;nucleus;mRNA processing;RNA splicing;small nucleolar ribonucleoprotein complex;viral nucleocapsid;spliceosomal complex"	
+10	114047762	114063481	Zm00001d025323	1	NO	Probable protein phosphatase 2C 40	protein dephosphorylation;protein serine/threonine phosphatase activity;catalytic activity;protein dephosphorylation;protein serine/threonine phosphatase activity;catalytic activity;	
+10	117743319	117754080	Zm00001d025409	1	NO	Putative AP2/EREBP transcription factor superfamily protein	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+10	118519767	118530381	Zm00001d025430	1	NO	NA	NA	
+10	118614416	118625958	Zm00001d025435	2	NO	PsbP domain-containing protein 2 chloroplastic	extrinsic component of membrane;photosystem II oxygen evolving complex;photosystem II;photosynthesis;calcium ion binding;chloroplast;thylakoid	
+10	118883454	118902515	Zm00001d025449	1	NO	Putative MAPKKK family protein kinase	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding	
+10	119889515	119901773	Zm00001d025472	1	NO	Two-component response regulator ARR16	;intracellular;phosphorelay signal transduction system	
+10	126415989	126430176	Zm00001d025692	1	NO	Eukaryotic translation initiation factor 4B	translational initiation;translation initiation factor activity	
+10	128646685	128662893	Zm00001d025763	1	NO	CBF1 interacting corepressor	NA	
+10	130140464	130153492	Zm00001d025808	1	NO	F-box protein	NA	
+10	130394900	130443506	Zm00001d025816	1	NO	DNA mismatch repair protein	mismatch repair;mismatched DNA binding;ATP binding;integral component of membrane;membrane;;DNA binding;mitochondrial genome maintenance;response to heat;mitochondrial DNA metabolic process;mitochondrion;chloroplast;plastid;thylakoid membrane	
+10	131176940	131242004	Zm00001d025830	1	NO	dcl103;dicer-like 103:	"RNA phosphodiester bond hydrolysis;RNA phosphodiester bond hydrolysis, endonucleolytic;endoribonuclease activity, producing 5'-phosphomonoesters;ribonuclease III activity;RNA binding;hydrolase activity;ATP binding;RNA processing;DNA binding;RNA phosphodiester bond hydrolysis;RNA phosphodiester bond hydrolysis, endonucleolytic;endoribonuclease activity, producing 5'-phosphomonoesters;ribonuclease III activity;RNA binding;RNA processing;catalytic activity;RNA phosphodiester bond hydrolysis;RNA phosphodiester bond hydrolysis, endonucleolytic;endoribonuclease activity, producing 5'-phosphomonoesters;ribonuclease III activity;RNA binding;RNA processing;catalytic activity;DNA-templated transcription, termination;virus induced gene silencing;polarity specification of adaxial/abaxial axis;vegetative phase change;maintenance of DNA methylation;production of ta-siRNAs involved in RNA interference;maintenance of shoot apical meristem identity;production of lsiRNA involved in RNA interference;reproductive structure development;RNA virus induced gene silencing;defense response to virus;nucleus;nucleic acid binding"	
+10	133079610	133091324	Zm00001d025886	1	NO	Cytokinin-O-glucosyltransferase 3	"transferase activity, transferring hexosyl groups;metabolic process;transferase activity, transferring glycosyl groups;transferase activity"	
+10	133602600	133617629	Zm00001d025911	1	NO	Transducin/WD40 repeat-like superfamily protein	NA	
+10	134981888	134996306	Zm00001d025966	2	NO	Cysteine-type endopeptidase/ ubiquitin thiolesterase	integral component of membrane;membrane	
+10	135119957	135139224	Zm00001d025979	1	NO	Eukaryotic translation initiation factor 4G	translational initiation;translation initiation factor activity;RNA binding	
+10	135844250	135855464	Zm00001d026005	1	NO	B3 domain-containing transcription factor NGA2	"nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;DNA binding"	
+10	140551885	140564471	Zm00001d026189	1	NO	Putative leucine-rich repeat receptor-like protein kinase family protein	phosphorylation;kinase activity;protein phosphorylation;protein kinase activity;ATP binding;integral component of membrane;membrane	
+10	145390974	145406877	Zm00001d026415	1	NO	Beta-D-xylosidase 4	"carbohydrate metabolic process;hydrolase activity, hydrolyzing O-glycosyl compounds;hydrolase activity;"	
+10	145389601	145400407	Zm00001d026414	1	NO	44076	NA	
+10	145433360	145450521	Zm00001d026420	1	NO	NA	NA	
+10	145445797	145466255	Zm00001d026421	1	NO	DNA-directed RNA polymerases IV and V subunit 2	"ribonucleoside binding;nucleotidyltransferase activity;DNA-directed 5'-3' RNA polymerase activity;transferase activity;transcription, DNA-templated;integral component of membrane;membrane;DNA binding;ribonucleoside binding;nucleotidyltransferase activity;DNA-directed 5'-3' RNA polymerase activity;transferase activity;transcription, DNA-templated;integral component of membrane;membrane;DNA binding"	
+10	145898057	145911518	Zm00001d026442	1	NO	EamA-like transporter family	integral component of membrane;membrane	
+10	146054085	146067110	Zm00001d026448	1	NO	Floral homeotic protein APETALA 2	"multicellular organism development;nucleus;regulation of transcription, DNA-templated;transcription, DNA-templated;transcription factor activity, sequence-specific DNA binding;DNA binding"	
+10	146116659	146127160	Zm00001d026456	1	NO	NA	NA	
+10	147046884	147060513	Zm00001d026491	1	NO	Squamosa promoter-binding protein-like (SBP domain) transcription factor family protein	metal ion binding;nucleus;DNA binding	
+10	147108322	147118933	Zm00001d026494	1	NO	Putative RING zinc finger domain superfamily protein	integral component of membrane;membrane	
+10	148262758	148274932	Zm00001d026578	1	NO	60S acidic ribosomal protein P2-5	intracellular ribonucleoprotein complex;ribosome;structural constituent of ribosome;translational elongation;intracellular;protein complex binding;cytosolic large ribosomal subunit	
+10	148317351	148347651	Zm00001d026579	1	NO	NA	NA	
+10	149196365	149209601	Zm00001d026634	1	NO	Tetraspanin-19	integral component of membrane;membrane	
